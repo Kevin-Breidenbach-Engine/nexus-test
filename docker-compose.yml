@@ -1,0 +1,30 @@
+networks:
+  shared_network:
+    external: true
+
+services:
+  postgres:
+    hostname: postgres
+    image: postgres:16
+    networks:
+      - shared_network
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: postgres
+      POSTGRES_HOST_AUTH_METHOD: trust
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./data:/var/lib/postgresql/data
+
+  nexus:
+    image: sonatype/nexus3
+    restart: always
+    ports:
+      - "8081:8081"
+      - "8085:8085"
+    volumes:
+      - ./nexus-data:/sonatype-work
+    depends_on:
+      - postgres
