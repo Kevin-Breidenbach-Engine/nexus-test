@@ -25,7 +25,8 @@ services:
     entrypoint: ["/bin/sh", "-c"]
     command: >
       "aws --endpoint-url=http://localstack:4566 s3api create-bucket --bucket nexus-store &&
-       echo 'S3 bucket created successfully'"
+       aws --endpoint-url=http://localstack:4566 s3api put-bucket-acl --bucket sample-bucket --acl bucket-owner-full-control &&
+       echo 'S3 bucket created successfully with correct ownership'"
     environment:
       - AWS_ACCESS_KEY_ID=test
       - AWS_SECRET_ACCESS_KEY=test
