@@ -10,6 +10,9 @@ services:
       - DEBUG=0
       - PERSISTENCE=1
       - SERVICES=s3
+      - DEFAULT_REGION=us-east-1
+      - USE_SINGLE_REGION=1
+      - AWS_REGION=us-east-1
     volumes:
       - "${LOCALSTACK_VOLUME_DIR:-./s3_data}:/var/lib/localstack"
       - "/var/run/docker.sock:/var/run/docker.sock"
@@ -25,12 +28,13 @@ services:
     entrypoint: ["/bin/sh", "-c"]
     command: >
       "aws --endpoint-url=http://localstack:4566 s3api create-bucket --bucket nexus-store &&
-       aws --endpoint-url=http://localstack:4566 s3api put-bucket-acl --bucket sample-bucket --acl bucket-owner-full-control &&
+       aws --endpoint-url=http://localstack:4566 s3api put-bucket-acl --bucket nexus-store --acl bucket-owner-full-control &&
        echo 'S3 bucket created successfully with correct ownership'"
     environment:
       - AWS_ACCESS_KEY_ID=test
       - AWS_SECRET_ACCESS_KEY=test
       - AWS_DEFAULT_REGION=us-east-1
+      - AWS_REGION=us-east-1
     depends_on:
       localstack:
         condition: service_healthy
@@ -41,10 +45,15 @@ services:
     ports:
       - "8081:8081"
       - "8085:8085"
+    environment:
+      - AWS_ACCESS_KEY_ID=test
+      - AWS_SECRET_ACCESS_KEY=test
+      - AWS_DEFAULT_REGION=us-east-1
+      - AWS_REGION=us-east-1
     volumes:
       - ./nexus-data:/nexus-data
-      - ./sonatype-work:/sonatype-work
     depends_on:
       - localstack
   # admin password: U4b&J$&TOcj8
-
+  # github user password: github123!
+  # developer user password: developer123!
