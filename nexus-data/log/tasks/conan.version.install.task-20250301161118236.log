@@ -1,6 +1,0 @@
-2025-03-01 16:11:18,236+0000 INFO  [quartz-10-thread-5]  *SYSTEM com.sonatype.repository.conan.internal.upgrade.ConanVersionInstallTask - Task information:
-2025-03-01 16:11:18,246+0000 INFO  [quartz-10-thread-5]  *SYSTEM com.sonatype.repository.conan.internal.upgrade.ConanVersionInstallTask -  ID: ef8a9423-ae26-4dce-8afc-2949b2321d14
-2025-03-01 16:11:18,246+0000 INFO  [quartz-10-thread-5]  *SYSTEM com.sonatype.repository.conan.internal.upgrade.ConanVersionInstallTask -  Type: conan.version.install.task
-2025-03-01 16:11:18,246+0000 INFO  [quartz-10-thread-5]  *SYSTEM com.sonatype.repository.conan.internal.upgrade.ConanVersionInstallTask -  Name: Upgrade - install missed Conan version repository attribute
-2025-03-01 16:11:18,246+0000 INFO  [quartz-10-thread-5]  *SYSTEM com.sonatype.repository.conan.internal.upgrade.ConanVersionInstallTask -  Description: Upgrade - install missed Conan version repository attribute
-2025-03-01 16:11:18,260+0000 INFO  [quartz-10-thread-5]  *SYSTEM com.sonatype.repository.conan.internal.upgrade.ConanVersionInstallTask - Task complete

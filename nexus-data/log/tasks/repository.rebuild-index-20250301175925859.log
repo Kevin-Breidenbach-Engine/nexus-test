@@ -1,7 +1,0 @@
-2025-03-01 17:59:25,860+0000 INFO  [quartz-10-thread-8]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask - Task information:
-2025-03-01 17:59:25,872+0000 INFO  [quartz-10-thread-8]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask -  ID: 2372032e-8ac1-45d9-a1e0-05661eee3721
-2025-03-01 17:59:25,873+0000 INFO  [quartz-10-thread-8]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask -  Type: repository.rebuild-index
-2025-03-01 17:59:25,873+0000 INFO  [quartz-10-thread-8]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask -  Name: Repair - Rebuild repository search
-2025-03-01 17:59:25,873+0000 INFO  [quartz-10-thread-8]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask -  Description: Rebuilding search index of maven-central
-2025-03-01 17:59:25,880+0000 INFO  [quartz-10-thread-8]  *SYSTEM org.sonatype.nexus.repository.content.search.elasticsearch.SearchFacetImpl - Rebuilding index of repository maven-central
-2025-03-01 17:59:25,965+0000 INFO  [quartz-10-thread-8]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask - Task complete
