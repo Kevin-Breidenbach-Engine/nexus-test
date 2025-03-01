@@ -787,4 +787,12 @@ sun.java.launcher=SUN_STANDARD
 <dependency_failed type='abstract_with_unique_concrete_subtype' ctxk='com/google/common/collect/AbstractListMultimap' x='com/google/common/collect/ArrayListMultimap' witness='com/google/common/collect/Multimaps$CustomListMultimap' stamp='803.964'/>
 <dependency_failed type='abstract_with_unique_concrete_subtype' ctxk='com/google/common/collect/AbstractListMultimap' x='com/google/common/collect/ArrayListMultimap' witness='com/google/common/collect/Multimaps$CustomListMultimap' stamp='803.964'/>
 <dependency_failed type='abstract_with_unique_concrete_subtype' ctxk='com/google/common/collect/AbstractListMultimap' x='com/google/common/collect/ArrayListMultimap' witness='com/google/common/collect/Multimaps$CustomListMultimap' stamp='803.964'/>
-<dependency_failed type='abstract_with_unique_concrete_subtype' ctxk='com/google/common/collect/AbstractListMultimap' x='com/goo
+<dependency_failed type='abstract_with_unique_concrete_subtype' ctxk='com/google/common/collect/AbstractListMultimap' x='com/google/common/collect/ArrayListMultimap' witness='com/google/common/collect/Multimaps$CustomListMultimap' stamp='803.965'/>
+<dependency_failed type='unique_concrete_method_4' ctxk='com/google/common/collect/AbstractListMultimap' x='com.google.common.collect.ArrayListMultimap get (Ljava/lang/Object;)Ljava/util/List;' x2='com/google/common/collect/AbstractListMultimap' x3='com.google.common.collect.AbstractListMultimap get (Ljava/lang/Object;)Ljava/util/List;' witness='com/google/common/collect/Multimaps$CustomListMultimap' stamp='803.969'/>
+<writer thread='367'/>
+<dependency_failed type='leaf_type' ctxk='com/google/common/collect/AbstractMapBasedMultimap$WrappedCollection$WrappedIterator' witness='com/google/common/collect/AbstractMapBasedMultimap$WrappedList$WrappedListIterator' stamp='1191.764'/>
+<dependency_failed type='leaf_type' ctxk='com/google/common/collect/AbstractMapBasedMultimap$WrappedCollection$WrappedIterator' witness='com/google/common/collect/AbstractMapBasedMultimap$WrappedList$WrappedListIterator' stamp='1191.764'/>
+<tty_done stamp='1195.628'/>
+</tty>
+<hotspot_log_done stamp='1195.628'/>
+</hotspot_log>

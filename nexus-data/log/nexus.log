@@ -29328,3 +29328,39 @@ Started Sonatype Nexus COMMUNITY 3.77.2-02
 2025-03-01 17:18:59,468+0000 INFO  [qtp533675837-117]  admin org.sonatype.nexus.security.internal.AuthorizationManagerImpl - Added role engine-maven-read-write
 2025-03-01 17:19:19,845+0000 INFO  [qtp533675837-748]  admin org.sonatype.nexus.security.internal.AuthorizationManagerImpl - Removed role engine-read-only
 2025-03-01 17:19:53,600+0000 INFO  [qtp533675837-748]  admin org.sonatype.nexus.security.internal.AuthorizationManagerImpl - Added role engine-maven-read-only
+2025-03-01 17:26:52,894+0000 INFO  [FelixStartLevel]  *SYSTEM org.sonatype.nexus.repository.httpbridge.internal.ViewServlet - Destroyed
+2025-03-01 17:26:52,897+0000 INFO  [FelixStartLevel]  *SYSTEM org.sonatype.nexus.siesta.SiestaServlet - Destroyed
+2025-03-01 17:26:52,910+0000 INFO  [FelixStartLevel]  *SYSTEM org.sonatype.nexus.extender.NexusContextListener - Uptime: 19 minutes, 51 seconds and 745 milliseconds (nexus-community-edition/3.77.2.02)
+2025-03-01 17:26:52,911+0000 INFO  [FelixStartLevel]  *SYSTEM org.sonatype.nexus.extender.NexusLifecycleManager - Shutting down
+2025-03-01 17:26:52,915+0000 INFO  [FelixStartLevel]  *SYSTEM org.sonatype.nexus.extender.NexusLifecycleManager - Stop TASKS
+2025-03-01 17:26:52,932+0000 INFO  [FelixStartLevel]  *SYSTEM org.sonatype.nexus.quartz.internal.datastore.DatastoreQuartzSchedulerSPI - Scheduler put into stand-by mode
+2025-03-01 17:26:52,938+0000 INFO  [FelixStartLevel]  *SYSTEM org.sonatype.nexus.extender.NexusLifecycleManager - Stop CAPABILITIES
+2025-03-01 17:26:52,952+0000 INFO  [FelixStartLevel]  *SYSTEM org.sonatype.nexus.extender.NexusLifecycleManager - Stop REPOSITORIES
+2025-03-01 17:26:52,967+0000 INFO  [FelixStartLevel]  *SYSTEM org.sonatype.nexus.extender.NexusLifecycleManager - Stop SERVICES
+2025-03-01 17:26:52,980+0000 INFO  [FelixStartLevel]  *SYSTEM org.ehcache.core.EhcacheManager - Cache 'SYSTEM_INFORMATION' removed from EhcacheManager.
+2025-03-01 17:26:52,984+0000 INFO  [FelixStartLevel]  *SYSTEM org.ehcache.core.EhcacheManager - Cache 'SYSTEM_INFORMATION' successfully destroyed in EhcacheManager.
+2025-03-01 17:26:52,988+0000 INFO  [FelixStartLevel]  *SYSTEM org.sonatype.nexus.extender.NexusLifecycleManager - Stop SECURITY
+2025-03-01 17:26:52,990+0000 INFO  [FelixStartLevel]  *SYSTEM org.apache.shiro.session.mgt.AbstractValidatingSessionManager - Disabled session validation scheduler.
+2025-03-01 17:26:52,991+0000 INFO  [FelixStartLevel]  *SYSTEM org.sonatype.nexus.extender.NexusLifecycleManager - Stop EVENTS
+2025-03-01 17:26:52,991+0000 INFO  [FelixStartLevel]  *SYSTEM org.sonatype.nexus.extender.NexusLifecycleManager - Stop SCHEMAS
+2025-03-01 17:26:52,992+0000 INFO  [FelixStartLevel]  *SYSTEM org.sonatype.nexus.extender.NexusLifecycleManager - Stop UPGRADE
+2025-03-01 17:26:52,992+0000 INFO  [FelixStartLevel]  *SYSTEM org.sonatype.nexus.extender.NexusLifecycleManager - Stop RESTORE
+2025-03-01 17:26:52,993+0000 INFO  [FelixStartLevel]  *SYSTEM org.sonatype.nexus.extender.NexusLifecycleManager - Stop STORAGE
+2025-03-01 17:26:52,995+0000 INFO  [FelixStartLevel]  *SYSTEM org.ehcache.core.EhcacheManager - Cache 'nuget-group#odata-query-cache' removed from EhcacheManager.
+2025-03-01 17:26:52,996+0000 INFO  [FelixStartLevel]  *SYSTEM org.ehcache.core.EhcacheManager - Cache 'MALICIOUS_RISK_ON_DISK_CACHE' removed from EhcacheManager.
+2025-03-01 17:26:52,997+0000 INFO  [FelixStartLevel]  *SYSTEM org.ehcache.core.EhcacheManager - Cache 'shiro-activeSessionCache' removed from EhcacheManager.
+2025-03-01 17:26:52,998+0000 INFO  [FelixStartLevel]  *SYSTEM org.ehcache.core.EhcacheManager - Cache 'NexusAuthenticatingRealm.authenticationCache' removed from EhcacheManager.
+2025-03-01 17:26:52,998+0000 INFO  [FelixStartLevel]  *SYSTEM org.ehcache.core.EhcacheManager - Cache 'NexusAuthorizingRealm.authorizationCache' removed from EhcacheManager.
+2025-03-01 17:26:52,999+0000 INFO  [FelixStartLevel]  *SYSTEM org.ehcache.core.EhcacheManager - Cache 'ENABLED_REGISTRIES' removed from EhcacheManager.
+2025-03-01 17:26:52,999+0000 INFO  [FelixStartLevel]  *SYSTEM org.ehcache.core.EhcacheManager - Cache 'maven-central#negative-cache' removed from EhcacheManager.
+2025-03-01 17:26:52,999+0000 INFO  [FelixStartLevel]  *SYSTEM org.ehcache.core.EhcacheManager - Cache 'nuget.org-proxy#odata-query-cache' removed from EhcacheManager.
+2025-03-01 17:26:53,000+0000 INFO  [FelixStartLevel]  *SYSTEM org.ehcache.core.EhcacheManager - Cache 'nuget.org-proxy#negative-cache' removed from EhcacheManager.
+2025-03-01 17:26:53,001+0000 INFO  [FelixStartLevel]  *SYSTEM org.ehcache.core.EhcacheManager - Cache 'MALICIOUS_RISK_SUMMARY' removed from EhcacheManager.
+2025-03-01 17:26:53,038+0000 INFO  [FelixStartLevel]  *SYSTEM org.sonatype.nexus.cache.internal.ehcache.EhCacheManagerProvider - Cache-manager closed
+2025-03-01 17:26:53,046+0000 INFO  [FelixStartLevel]  *SYSTEM org.elasticsearch.node - [71feedfe-44e2be69-535706dd-96db354e-f16d3294] stopping ...
+2025-03-01 17:26:53,373+0000 INFO  [FelixStartLevel]  *SYSTEM org.elasticsearch.node - [71feedfe-44e2be69-535706dd-96db354e-f16d3294] stopped
+2025-03-01 17:26:53,380+0000 INFO  [FelixStartLevel]  *SYSTEM org.elasticsearch.node - [71feedfe-44e2be69-535706dd-96db354e-f16d3294] closing ...
+2025-03-01 17:26:53,563+0000 INFO  [FelixStartLevel]  *SYSTEM org.elasticsearch.node - [71feedfe-44e2be69-535706dd-96db354e-f16d3294] closed
+2025-03-01 17:26:53,619+0000 INFO  [FelixStartLevel]  *SYSTEM com.zaxxer.hikari.HikariDataSource - nexus - Shutdown initiated...
+2025-03-01 17:26:53,680+0000 INFO  [FelixStartLevel]  *SYSTEM com.zaxxer.hikari.HikariDataSource - nexus - Shutdown completed.
+2025-03-01 17:26:53,683+0000 INFO  [FelixStartLevel]  *SYSTEM org.sonatype.nexus.extender.NexusLifecycleManager - Stop KERNEL
