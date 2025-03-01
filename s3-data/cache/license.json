@@ -1,0 +1,61 @@
+{
+  "id": "fa52c99e-2549-45e2-b3e9-bdba7b7dd16b",
+  "license_format": "1",
+  "signature": "eef797b1c06e662eb1dfecff9030c8986c27967079cc66901e65eeea613460bd",
+  "license_type": "trial",
+  "issue_date": "2025-03-01T20:13:40+00:00",
+  "expiry_date": "2025-03-15T20:10:48+00:00",
+  "products": [
+    {
+      "name": "localstack.ci_projects",
+      "version": "*"
+    },
+    {
+      "name": "localstack.lambda.runtime_executor/*",
+      "version": "*"
+    },
+    {
+      "name": "localstack.pods",
+      "version": "*"
+    },
+    {
+      "name": "localstack.aws.provider/*",
+      "version": "*"
+    },
+    {
+      "name": "localstack.platform.plugin/*",
+      "version": "*"
+    },
+    {
+      "name": "localstack.stacks.preview",
+      "version": "*"
+    },
+    {
+      "name": "localstack-pro",
+      "version": "*.*.*"
+    },
+    {
+      "name": "localstack.stacks.premium",
+      "version": "*"
+    },
+    {
+      "name": "localstack.extensions/*",
+      "version": "*"
+    },
+    {
+      "name": "localstack.pods.public",
+      "version": "*"
+    },
+    {
+      "name": "localstack.container.runtime/*",
+      "version": "*"
+    }
+  ],
+  "license_status": "ACTIVE",
+  "license_secret": "TFMxLjA6RUTtkL31XL6xP0ShaCshlpu0Hh3mL/RpO84gvhFlO8/cDg3zCLokSUUpipMe0qOd",
+  "last_activated": "2025-03-01T21:45:01.036714Z",
+  "reactivate_after": "2025-03-02T21:45:01+00:00",
+  "offline_data": {
+    "localstack_version": "4.2.1.dev6"
+  }
+}

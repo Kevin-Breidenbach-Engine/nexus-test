@@ -1,0 +1,7 @@
+#Sat Mar 01 23:00:48 GMT 2025
+sha1=88523924351bac0b5d560fe0c5781e2556e7693d
+@BlobStore.blob-name=health-check/maven-central/summary/jquery.js
+@BlobStore.direct-path=true
+size=88145
+creationTime=1740870048571
+@BlobStore.created-by=repository-health-check
