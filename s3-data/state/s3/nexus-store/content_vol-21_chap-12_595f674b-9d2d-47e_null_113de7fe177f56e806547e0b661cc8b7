@@ -1,0 +1,9 @@
+#Sun Mar 02 00:38:03 GMT 2025
+sha1=e24bc12b24bfbdb2d0aac726659c74626519375b
+@BlobStore.blob-name=/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16-sources.jar.sha1
+size=40
+creationTime=1740875877897
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

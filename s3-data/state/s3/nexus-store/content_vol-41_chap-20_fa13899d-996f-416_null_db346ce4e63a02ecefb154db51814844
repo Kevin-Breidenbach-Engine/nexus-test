@@ -1,0 +1,9 @@
+#Sat Mar 01 23:49:05 GMT 2025
+sha1=571088702b160a17c7f8d1015a1abc3b9796d132
+@BlobStore.blob-name=/software/amazon/awssdk/netty-nio-client/2.29.6/netty-nio-client-2.29.6.pom
+size=8285
+creationTime=1740872944058
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

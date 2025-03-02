@@ -1,0 +1,9 @@
+#Sun Mar 02 00:06:47 GMT 2025
+sha1=de1c7daab0b2b5491031923f4a55d88b530ceee9
+@BlobStore.blob-name=/io/netty/netty-resolver/4.1.114.Final/netty-resolver-4.1.114.Final.jar.sha1
+size=40
+creationTime=1740874001664
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

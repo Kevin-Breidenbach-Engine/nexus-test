@@ -1,0 +1,9 @@
+#Sat Mar 01 23:50:51 GMT 2025
+sha1=d92f71841f25f80c9482023b90f486c8c64e6ba2
+@BlobStore.blob-name=/org/apache/httpcomponents/httpcomponents-core/4.4.16/httpcomponents-core-4.4.16.pom.sha1
+size=40
+creationTime=1740873050163
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

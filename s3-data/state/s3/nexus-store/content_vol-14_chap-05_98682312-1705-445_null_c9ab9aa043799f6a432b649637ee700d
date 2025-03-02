@@ -1,0 +1,9 @@
+#Sun Mar 02 00:39:58 GMT 2025
+sha1=9002a522bd7ed958994df0f337592605ec7fc3cf
+@BlobStore.blob-name=/ch/qos/logback/logback-core/1.5.8/logback-core-1.5.8-sources.jar.sha1
+size=40
+creationTime=1740875991346
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

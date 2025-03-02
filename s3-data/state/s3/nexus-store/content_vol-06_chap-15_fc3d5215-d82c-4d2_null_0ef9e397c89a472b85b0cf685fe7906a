@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.evenfinancial.lib</groupId>
+    <artifactId>avro-events_3</artifactId>
+    <packaging>jar</packaging>
+    <description>avro-events</description>
+    <version>0.677</version>
+    <name>avro-events</name>
+    <organization>
+        <name>com.evenfinancial.lib</name>
+    </organization>
+    <dependencies>
+        <dependency>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>scala3-library_3</artifactId>
+            <version>3.3.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.beachape</groupId>
+            <artifactId>enumeratum_3</artifactId>
+            <version>1.7.3</version>
+        </dependency>
+        <dependency>
+            <groupId>com.sksamuel.avro4s</groupId>
+            <artifactId>avro4s-core_3</artifactId>
+            <version>5.0.9</version>
+        </dependency>
+    </dependencies>
+    <repositories>
+        <repository>
+            <id>GCS Maven Central mirror</id>
+            <name>GCS Maven Central mirror</name>
+            <url>https://maven-central.storage-download.googleapis.com/repos/central/data/</url>
+            <layout>default</layout>
+        </repository>
+        <repository>
+            <id>EVEN Private Releases</id>
+            <name>EVEN Private Releases</name>
+            <url>s3://s3-us-east-1.amazonaws.com/evenfinancial/maven/private/releases/</url>
+            <layout>default</layout>
+        </repository>
+        <repository>
+            <id>EVEN Private Snapshots</id>
+            <name>EVEN Private Snapshots</name>
+            <url>s3://s3-us-east-1.amazonaws.com/evenfinancial/maven/private/snapshots/</url>
+            <layout>default</layout>
+        </repository>
+    </repositories>
+</project>

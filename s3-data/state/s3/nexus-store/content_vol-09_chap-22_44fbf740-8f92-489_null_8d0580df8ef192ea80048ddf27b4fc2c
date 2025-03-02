@@ -1,0 +1,9 @@
+#Sat Mar 01 23:59:20 GMT 2025
+sha1=50268b1c97dbd9ed99aa7810276f5b78704fec66
+@BlobStore.blob-name=/org/typelevel/cats-effect_3/3.5.4/cats-effect_3-3.5.4.jar
+size=759453
+creationTime=1740873556513
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

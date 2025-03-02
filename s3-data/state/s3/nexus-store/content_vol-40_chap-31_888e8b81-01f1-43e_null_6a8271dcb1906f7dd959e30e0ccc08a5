@@ -1,0 +1,9 @@
+#Sun Mar 02 00:43:43 GMT 2025
+sha1=89c09e67b84fd7d4dfeebb55cd77f430c3c22d6e
+@BlobStore.blob-name=/org/jetbrains/annotations/17.0.0/annotations-17.0.0-sources.jar.sha1
+size=40
+creationTime=1740876217047
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

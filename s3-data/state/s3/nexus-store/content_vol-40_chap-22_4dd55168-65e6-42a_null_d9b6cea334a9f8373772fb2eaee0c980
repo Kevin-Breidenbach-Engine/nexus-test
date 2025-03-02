@@ -1,0 +1,9 @@
+#Sun Mar 02 00:14:52 GMT 2025
+sha1=9d665283f1f206288185d3c7ff6f3796e4c72b12
+@BlobStore.blob-name=/com/fasterxml/jackson/core/jackson-annotations/2.17.2/jackson-annotations-2.17.2.jar.sha1
+size=40
+creationTime=1740874487009
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

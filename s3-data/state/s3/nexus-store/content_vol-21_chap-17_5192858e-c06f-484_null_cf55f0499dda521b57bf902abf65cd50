@@ -1,0 +1,9 @@
+#Sat Mar 01 23:53:52 GMT 2025
+sha1=e677f8428c7a660df987830f684b07a0b6bbebe1
+@BlobStore.blob-name=/software/amazon/awssdk/third-party/2.26.8/third-party-2.26.8.pom
+size=2454
+creationTime=1740873231906
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

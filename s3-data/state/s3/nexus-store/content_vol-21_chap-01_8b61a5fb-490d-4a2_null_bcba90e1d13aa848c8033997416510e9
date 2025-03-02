@@ -1,0 +1,9 @@
+#Sat Mar 01 23:49:28 GMT 2025
+sha1=b6b629fa8eafb7d95e38f28e8aaab2fe2a23a8ce
+@BlobStore.blob-name=/software/amazon/awssdk/regions/2.29.6/regions-2.29.6.pom
+size=5622
+creationTime=1740872966185
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

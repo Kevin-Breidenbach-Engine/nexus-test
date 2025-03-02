@@ -1,0 +1,9 @@
+#Sat Mar 01 23:58:15 GMT 2025
+sha1=3f80d36c5830f9f09fdbb9d60d6ff61bca0e65cc
+@BlobStore.blob-name=/com/monovore/decline_3/2.4.1/decline_3-2.4.1.jar
+size=388920
+creationTime=1740873491967
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

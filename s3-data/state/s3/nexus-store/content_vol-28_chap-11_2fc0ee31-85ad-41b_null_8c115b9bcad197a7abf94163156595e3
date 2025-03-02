@@ -1,0 +1,9 @@
+#Sun Mar 02 00:20:03 GMT 2025
+sha1=46d12bed5ca6c24790e6e974986c5dca9b868849
+@BlobStore.blob-name=/com/dimafeng/testcontainers-scala-kafka_3/0.41.4/testcontainers-scala-kafka_3-0.41.4.jar
+size=20114
+creationTime=1740874797249
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

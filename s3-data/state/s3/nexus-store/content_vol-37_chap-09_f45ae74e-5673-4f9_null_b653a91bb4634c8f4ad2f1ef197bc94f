@@ -1,0 +1,9 @@
+#Sun Mar 02 00:13:57 GMT 2025
+sha1=6e2ac12cf7423f92eec9762f25025614f7516768
+@BlobStore.blob-name=/software/amazon/awssdk/sts/2.27.22/sts-2.27.22.jar.sha1
+size=40
+creationTime=1740874432498
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

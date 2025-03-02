@@ -1,0 +1,9 @@
+#Sun Mar 02 00:41:51 GMT 2025
+sha1=1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b
+@BlobStore.blob-name=/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+size=32624
+creationTime=1740876104952
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

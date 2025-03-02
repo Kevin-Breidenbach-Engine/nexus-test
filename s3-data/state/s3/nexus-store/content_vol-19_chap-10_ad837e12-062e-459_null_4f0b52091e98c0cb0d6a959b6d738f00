@@ -1,0 +1,9 @@
+#Sun Mar 02 00:01:04 GMT 2025
+sha1=264310fd7b2cd76738787dc0b9f7ea2e3b11adc1
+@BlobStore.blob-name=/org/postgresql/postgresql/42.7.4/postgresql-42.7.4.jar
+size=1086687
+creationTime=1740873659843
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

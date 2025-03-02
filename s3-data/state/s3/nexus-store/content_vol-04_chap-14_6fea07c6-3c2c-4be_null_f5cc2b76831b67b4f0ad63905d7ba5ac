@@ -1,0 +1,9 @@
+#Sun Mar 02 00:41:17 GMT 2025
+sha1=d2efe4c2592481e42bf7ea08a2ad4ea9f9a6bad8
+@BlobStore.blob-name=/software/amazon/awssdk/retries/2.29.6/retries-2.29.6-sources.jar.sha1
+size=40
+creationTime=1740876072140
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

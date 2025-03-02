@@ -1,0 +1,9 @@
+#Sun Mar 02 00:28:39 GMT 2025
+sha1=49cc9a760cebbbcd13be06679a224a1ecc85f884
+@BlobStore.blob-name=/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0-sources.jar
+size=263542
+creationTime=1740875314291
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

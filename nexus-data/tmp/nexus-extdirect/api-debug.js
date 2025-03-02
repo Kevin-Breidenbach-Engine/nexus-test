@@ -218,12 +218,12 @@ NX.direct.api.REMOTING_API = {
         formHandler: false
       },
       {
-        name: 'sync'/*() => void */,
+        name: 'done'/*() => void */,
         len: 0,
         formHandler: false
       },
       {
-        name: 'done'/*() => void */,
+        name: 'sync'/*() => void */,
         len: 0,
         formHandler: false
       },
@@ -702,13 +702,13 @@ NX.direct.api.REMOTING_API = {
     ],
     ssl_Certificate: [
       {
-        name: 'details'/*(String) => com.sonatype.nexus.ssl.plugin.internal.ui.CertificateXO */,
-        len: 1,
+        name: 'retrieveFromHost'/*(String, Integer, String) => com.sonatype.nexus.ssl.plugin.internal.ui.CertificateXO */,
+        len: 3,
         formHandler: false
       },
       {
-        name: 'retrieveFromHost'/*(String, Integer, String) => com.sonatype.nexus.ssl.plugin.internal.ui.CertificateXO */,
-        len: 3,
+        name: 'details'/*(String) => com.sonatype.nexus.ssl.plugin.internal.ui.CertificateXO */,
+        len: 1,
         formHandler: false
       }
     ],

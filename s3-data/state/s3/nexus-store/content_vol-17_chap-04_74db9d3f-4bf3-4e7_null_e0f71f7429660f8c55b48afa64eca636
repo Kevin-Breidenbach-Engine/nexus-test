@@ -1,0 +1,9 @@
+#Sun Mar 02 00:41:51 GMT 2025
+sha1=39352b9dd87bfc050d05fd0c6c38ac0523b243f2
+@BlobStore.blob-name=/org/testcontainers/kafka/1.19.1/kafka-1.19.1-sources.jar
+size=3993
+creationTime=1740876106467
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

@@ -1,0 +1,9 @@
+#Sun Mar 02 00:34:54 GMT 2025
+sha1=9f62f46e658db7cff8e70d87004d0abf1a98038a
+@BlobStore.blob-name=/org/typelevel/log4cats-slf4j_3/2.7.0/log4cats-slf4j_3-2.7.0-sources.jar.sha1
+size=40
+creationTime=1740875688913
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

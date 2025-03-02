@@ -1,0 +1,9 @@
+#Sun Mar 02 00:21:31 GMT 2025
+sha1=93fd8cbe2408f2bd70d4fdc76d3b28ab8ae966a6
+@BlobStore.blob-name=/org/typelevel/log4cats-noop_3/2.7.0/log4cats-noop_3-2.7.0.jar.sha1
+size=40
+creationTime=1740874885256
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

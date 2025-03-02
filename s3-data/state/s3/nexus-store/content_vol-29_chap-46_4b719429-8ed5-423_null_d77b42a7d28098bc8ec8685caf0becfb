@@ -1,0 +1,9 @@
+#Sun Mar 02 00:20:58 GMT 2025
+sha1=c2e86c1a8ac44c8fa4e30d7e84b84b23a72ffd0e
+@BlobStore.blob-name=/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar.sha1
+size=40
+creationTime=1740874851984
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

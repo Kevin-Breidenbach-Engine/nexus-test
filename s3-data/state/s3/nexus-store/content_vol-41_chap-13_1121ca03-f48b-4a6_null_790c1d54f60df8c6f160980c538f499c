@@ -1,0 +1,9 @@
+#Sun Mar 02 00:01:58 GMT 2025
+sha1=502af3ab6e4abe6cc54f2ed8dcd148bd91cd8683
+@BlobStore.blob-name=/com/github/fd4s/fs2-kafka_3/3.5.1/fs2-kafka_3-3.5.1.jar
+size=918981
+creationTime=1740873713808
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

@@ -1,0 +1,9 @@
+#Sat Mar 01 23:55:30 GMT 2025
+sha1=c8c2fc45b25e9ebcf794b3081059f8a8d1979999
+@BlobStore.blob-name=/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.15.1/jackson-dataformat-yaml-2.15.1.pom.sha1
+size=40
+creationTime=1740873326541
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

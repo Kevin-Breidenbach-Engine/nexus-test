@@ -1,0 +1,9 @@
+#Sun Mar 02 00:00:38 GMT 2025
+sha1=659311966c58ea1ed59afcffddd0cc8a819ad51e
+@BlobStore.blob-name=/io/circe/circe-generic_3/0.14.10/circe-generic_3-0.14.10.jar
+size=6268
+creationTime=1740873634188
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

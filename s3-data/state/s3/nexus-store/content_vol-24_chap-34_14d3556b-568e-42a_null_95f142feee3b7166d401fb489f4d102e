@@ -1,0 +1,9 @@
+#Sun Mar 02 00:42:38 GMT 2025
+sha1=325829607eb3769cf524d9af1dfc5e5eb82e2bf9
+@BlobStore.blob-name=/org/scalameta/munit-scalacheck_3/1.0.0/munit-scalacheck_3-1.0.0-sources.jar
+size=2015
+creationTime=1740876153538
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

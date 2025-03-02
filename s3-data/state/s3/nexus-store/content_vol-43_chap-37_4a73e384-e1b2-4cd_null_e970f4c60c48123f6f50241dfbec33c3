@@ -1,0 +1,9 @@
+#Sat Mar 01 23:56:51 GMT 2025
+sha1=7b7adac00d0d5a399ff42d37e2e867562c7d8a7b
+@BlobStore.blob-name=/com/fasterxml/jackson/core/jackson-databind/2.15.1/jackson-databind-2.15.1.pom.sha1
+size=40
+creationTime=1740873407695
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

@@ -1,0 +1,9 @@
+#Sat Mar 01 23:52:49 GMT 2025
+sha1=78b1b407c9031bf806e5ed9db18d7e0e299be487
+@BlobStore.blob-name=/software/amazon/awssdk/bom/2.26.8/bom-2.26.8.pom.sha1
+size=40
+creationTime=1740873168660
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

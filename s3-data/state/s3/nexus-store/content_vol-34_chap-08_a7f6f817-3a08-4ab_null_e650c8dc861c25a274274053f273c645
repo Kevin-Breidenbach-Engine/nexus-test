@@ -1,0 +1,9 @@
+#Sun Mar 02 00:19:43 GMT 2025
+sha1=9f37561bd54cf3ad18f8dc38872421089a4b3bb3
+@BlobStore.blob-name=/org/typelevel/munit-cats-effect_3/2.0.0/munit-cats-effect_3-2.0.0.jar
+size=71540
+creationTime=1740874777324
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

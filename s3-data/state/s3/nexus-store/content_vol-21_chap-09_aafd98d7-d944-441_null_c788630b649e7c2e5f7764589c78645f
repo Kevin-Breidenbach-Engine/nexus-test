@@ -1,0 +1,9 @@
+#Sat Mar 01 23:52:01 GMT 2025
+sha1=65c73f239d1b4986e166f2798db20de4a4fb179b
+@BlobStore.blob-name=/io/netty/netty-handler/4.1.114.Final/netty-handler-4.1.114.Final.pom.sha1
+size=40
+creationTime=1740873119135
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

@@ -1,0 +1,9 @@
+#Sun Mar 02 00:52:46 GMT 2025
+sha1=42e380a2e74a6b83be110763f03262bb2fab393c
+@BlobStore.blob-name=/tech/engine/identity_3/1.1.5-SNAPSHOT/identity_3-1.1.5-SNAPSHOT.pom.md5
+size=32
+creationTime=1740876765229
+@Bucket.repo-name=engine-snapshot
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=github-actions
+@BlobStore.content-type=application/octet-stream

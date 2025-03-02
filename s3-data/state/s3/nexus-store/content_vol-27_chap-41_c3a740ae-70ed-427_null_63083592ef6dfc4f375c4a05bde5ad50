@@ -1,0 +1,9 @@
+#Sat Mar 01 23:47:06 GMT 2025
+sha1=17c34ad78543268467d893b00e4936ec064cd9e4
+@BlobStore.blob-name=/com/softwaremill/sttp/tapir/tapir-json-circe_3/1.11.2/tapir-json-circe_3-1.11.2.pom.sha1
+size=40
+creationTime=1740872825579
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

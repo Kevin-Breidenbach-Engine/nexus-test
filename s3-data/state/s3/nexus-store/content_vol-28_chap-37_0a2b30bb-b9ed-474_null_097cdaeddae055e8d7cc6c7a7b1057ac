@@ -1,0 +1,9 @@
+#Sun Mar 02 00:28:52 GMT 2025
+sha1=6f85f0f5cc5ea3060cb73c1b178a392f154d3aa5
+@BlobStore.blob-name=/org/flywaydb/flyway-core/10.18.2/flyway-core-10.18.2-sources.jar
+size=533387
+creationTime=1740875327688
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

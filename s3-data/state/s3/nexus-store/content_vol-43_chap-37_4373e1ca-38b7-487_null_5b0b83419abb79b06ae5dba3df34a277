@@ -1,0 +1,9 @@
+#Sun Mar 02 00:01:10 GMT 2025
+sha1=5a49dfa2828d64bf756f670e63259115332744cf
+@BlobStore.blob-name=/io/netty/netty-codec/4.1.114.Final/netty-codec-4.1.114.Final.jar
+size=352122
+creationTime=1740873665872
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

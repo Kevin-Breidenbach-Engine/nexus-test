@@ -1,0 +1,9 @@
+#Sun Mar 02 00:02:58 GMT 2025
+sha1=2eed0f043ff9a7086abb1906f4861dc23f90ac46
+@BlobStore.blob-name=/com/softwaremill/sttp/tapir/tapir-http4s-server_3/1.11.2/tapir-http4s-server_3-1.11.2.jar
+size=133695
+creationTime=1740873773417
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

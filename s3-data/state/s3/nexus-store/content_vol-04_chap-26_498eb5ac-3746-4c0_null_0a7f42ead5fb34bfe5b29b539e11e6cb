@@ -1,0 +1,9 @@
+#Sat Mar 01 23:48:05 GMT 2025
+sha1=e16597ca03b65deafb28cd5f71906b87b94769c5
+@BlobStore.blob-name=/com/softwaremill/sttp/shared/fs2_3/1.3.20/fs2_3-1.3.20.pom.sha1
+size=40
+creationTime=1740872883924
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

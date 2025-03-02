@@ -1,0 +1,9 @@
+#Sun Mar 02 00:33:10 GMT 2025
+sha1=db0a69458e2e58a014d986312ad437fad36c80d8
+@BlobStore.blob-name=/org/typelevel/vault_3/3.6.0/vault_3-3.6.0-sources.jar.sha1
+size=40
+creationTime=1740875584985
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

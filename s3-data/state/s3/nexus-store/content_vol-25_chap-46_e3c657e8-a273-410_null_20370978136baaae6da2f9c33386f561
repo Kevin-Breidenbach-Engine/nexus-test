@@ -1,0 +1,9 @@
+#Sat Mar 01 23:48:55 GMT 2025
+sha1=e98101b6229c4cbce2efacc09153524fe039eb6f
+@BlobStore.blob-name=/com/fasterxml/jackson/dataformat/jackson-dataformat-toml/2.15.2/jackson-dataformat-toml-2.15.2.pom
+size=3483
+creationTime=1740872933555
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

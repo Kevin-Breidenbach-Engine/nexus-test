@@ -1,0 +1,9 @@
+#Sun Mar 02 00:19:14 GMT 2025
+sha1=69c6975179b41062e2485889669e3a29134ccb97
+@BlobStore.blob-name=/org/scalameta/munit_3/1.0.0/munit_3-1.0.0.jar
+size=240065
+creationTime=1740874749127
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

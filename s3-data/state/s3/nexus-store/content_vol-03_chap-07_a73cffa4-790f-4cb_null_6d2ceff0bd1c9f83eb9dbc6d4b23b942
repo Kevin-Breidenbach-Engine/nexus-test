@@ -1,0 +1,9 @@
+#Sat Mar 01 23:57:52 GMT 2025
+sha1=fde7783ce31e55f98241bcb9b102984c21552404
+@BlobStore.blob-name=/software/amazon/awssdk/checksums-spi/2.29.6/checksums-spi-2.29.6.jar
+size=8044
+creationTime=1740873468568
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

@@ -1,0 +1,9 @@
+#Sun Mar 02 00:04:58 GMT 2025
+sha1=ceba9a3456962a22ef0a837af9e4d48b62b63f93
+@BlobStore.blob-name=/nl/big-o/liqp/0.8.2/liqp-0.8.2.jar
+size=298378
+creationTime=1740873892934
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

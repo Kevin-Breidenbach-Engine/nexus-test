@@ -1,0 +1,9 @@
+#Sun Mar 02 00:13:49 GMT 2025
+sha1=a64f24f9684a8d184da9c3b4bbf5806112428c99
+@BlobStore.blob-name=/org/typelevel/cats-kernel_3/2.12.0/cats-kernel_3-2.12.0.jar.sha1
+size=40
+creationTime=1740874423712
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

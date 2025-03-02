@@ -1,0 +1,9 @@
+#Sat Mar 01 23:47:00 GMT 2025
+sha1=e8d2efb73d58a2de225d6b98a24f593852069b03
+@BlobStore.blob-name=/org/scala-lang/scala3-library_3/3.5.0/scala3-library_3-3.5.0.pom
+size=3788
+creationTime=1740872819632
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

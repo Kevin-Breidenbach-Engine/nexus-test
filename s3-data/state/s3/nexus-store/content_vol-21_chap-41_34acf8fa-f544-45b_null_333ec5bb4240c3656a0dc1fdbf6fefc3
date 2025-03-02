@@ -1,0 +1,9 @@
+#Sun Mar 02 00:04:41 GMT 2025
+sha1=a10a19c26ca4cb065f79c315f1b9724a039c98eb
+@BlobStore.blob-name=/com/comcast/ip4s-core_3/3.6.0/ip4s-core_3-3.6.0.jar
+size=278828
+creationTime=1740873876224
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

@@ -1,0 +1,9 @@
+#Sat Mar 01 23:53:32 GMT 2025
+sha1=ad35b9a1a57baa1559fc4b03f520854818249773
+@BlobStore.blob-name=/org/slf4j/slf4j-bom/2.0.15/slf4j-bom-2.0.15.pom
+size=7332
+creationTime=1740873210674
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

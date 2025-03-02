@@ -1,0 +1,9 @@
+#Sat Mar 01 23:50:38 GMT 2025
+sha1=b0d0d91abe13dc678ef504ef25db41b27c6671fe
+@BlobStore.blob-name=/com/fasterxml/jackson/module/jackson-modules-java8/2.15.2/jackson-modules-java8-2.15.2.pom
+size=3099
+creationTime=1740873036663
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

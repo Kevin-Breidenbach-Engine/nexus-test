@@ -1,0 +1,9 @@
+#Sun Mar 02 00:04:26 GMT 2025
+sha1=0e4f908909b7f296b8b282a92d3cba6e3eb950b7
+@BlobStore.blob-name=/org/scala-lang/scala3-tasty-inspector_3/3.5.0/scala3-tasty-inspector_3-3.5.0.jar
+size=17672
+creationTime=1740873862022
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

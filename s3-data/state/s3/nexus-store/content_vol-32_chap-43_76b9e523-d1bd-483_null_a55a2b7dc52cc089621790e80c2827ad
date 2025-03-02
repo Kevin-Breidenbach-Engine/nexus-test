@@ -1,0 +1,9 @@
+#Sun Mar 02 00:28:17 GMT 2025
+sha1=271b7dbf10aed686c4c46dfd77f244c7f1442b91
+@BlobStore.blob-name=/software/amazon/msk/aws-msk-iam-auth/2.2.0/aws-msk-iam-auth-2.2.0-sources.jar
+size=27796
+creationTime=1740875291809
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

@@ -1,0 +1,9 @@
+#Sun Mar 02 00:27:45 GMT 2025
+sha1=35930f57c226e98ea80a828a6b58e54a12b09603
+@BlobStore.blob-name=/org/jline/jline-native/3.25.1/jline-native-3.25.1-sources.jar
+size=178692
+creationTime=1740875260113
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

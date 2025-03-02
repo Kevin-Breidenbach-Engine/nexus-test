@@ -1,0 +1,9 @@
+#Sat Mar 01 23:55:57 GMT 2025
+sha1=eaa04f706f5c1ec641c9ba6f4d991221b76f601a
+@BlobStore.blob-name=/com/fasterxml/jackson/core/jackson-core/2.15.1/jackson-core-2.15.1.pom
+size=9456
+creationTime=1740873354035
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

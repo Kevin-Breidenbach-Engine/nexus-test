@@ -1,0 +1,9 @@
+#Sun Mar 02 00:14:33 GMT 2025
+sha1=866d4e40fb10751721eda697b5104d2c326cd05e
+@BlobStore.blob-name=/com/twitter/hpack/1.0.2/hpack-1.0.2.jar.sha1
+size=40
+creationTime=1740874467904
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

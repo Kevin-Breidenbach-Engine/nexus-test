@@ -1,0 +1,9 @@
+#Sun Mar 02 00:02:55 GMT 2025
+sha1=43155e25bb99ddd2bed87eaac5bb55e8550b4d6e
+@BlobStore.blob-name=/software/amazon/awssdk/checksums/2.29.6/checksums-2.29.6.jar
+size=69427
+creationTime=1740873770933
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

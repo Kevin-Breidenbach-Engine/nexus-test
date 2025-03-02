@@ -1,0 +1,9 @@
+#Sun Mar 02 00:05:43 GMT 2025
+sha1=7e39efe62b2710b9f2bbefd2911e176b2efe1105
+@BlobStore.blob-name=/org/jline/jline-terminal-jna/3.25.1/jline-terminal-jna-3.25.1.jar
+size=73759
+creationTime=1740873937747
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

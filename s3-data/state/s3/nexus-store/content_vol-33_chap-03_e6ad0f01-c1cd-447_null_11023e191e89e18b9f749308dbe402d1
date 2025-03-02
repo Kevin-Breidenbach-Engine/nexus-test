@@ -1,0 +1,9 @@
+#Sat Mar 01 23:50:28 GMT 2025
+sha1=60e791050a2da92583af1975fdbe7dc2be2f2225
+@BlobStore.blob-name=/software/amazon/awssdk/auth/2.29.6/auth-2.29.6.pom.sha1
+size=40
+creationTime=1740873026464
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

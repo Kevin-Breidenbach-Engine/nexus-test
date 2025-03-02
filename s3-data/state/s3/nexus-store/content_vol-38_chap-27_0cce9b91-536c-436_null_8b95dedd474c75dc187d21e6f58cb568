@@ -1,0 +1,9 @@
+#Sun Mar 02 00:03:56 GMT 2025
+sha1=99dcfea4755426e61740b2fe5a4fb0b77123c484
+@BlobStore.blob-name=/org/http4s/http4s-core_3/0.23.28/http4s-core_3-0.23.28.jar
+size=3316886
+creationTime=1740873831320
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

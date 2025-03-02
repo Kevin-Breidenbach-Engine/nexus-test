@@ -1,0 +1,9 @@
+#Sat Mar 01 23:54:36 GMT 2025
+sha1=26db5ed9c67861a6c1f37078d58652ac38717edd
+@BlobStore.blob-name=/org/jline/jline-native/3.25.1/jline-native-3.25.1.pom.sha1
+size=40
+creationTime=1740873275259
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

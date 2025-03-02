@@ -1,0 +1,9 @@
+#Sun Mar 02 00:25:23 GMT 2025
+sha1=40c83bbe7e07d1593facfac04b78775fa9368d24
+@BlobStore.blob-name=/org/jsoup/jsoup/1.17.2/jsoup-1.17.2-sources.jar
+size=228522
+creationTime=1740875118434
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

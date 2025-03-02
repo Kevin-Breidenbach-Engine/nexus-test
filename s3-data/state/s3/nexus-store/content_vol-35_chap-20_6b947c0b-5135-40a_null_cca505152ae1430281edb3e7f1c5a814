@@ -1,0 +1,9 @@
+#Sun Mar 02 00:35:17 GMT 2025
+sha1=226796b9ef298d7c61d5bb6faf835030857cd6d9
+@BlobStore.blob-name=/org/slf4j/slf4j-api/2.0.15/slf4j-api-2.0.15-sources.jar.sha1
+size=40
+creationTime=1740875710594
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

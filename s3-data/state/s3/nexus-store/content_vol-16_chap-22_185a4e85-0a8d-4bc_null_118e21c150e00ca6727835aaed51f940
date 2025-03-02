@@ -1,0 +1,9 @@
+#Sun Mar 02 00:14:20 GMT 2025
+sha1=bb54429743db4e395bedb019bf3d10a670449db0
+@BlobStore.blob-name=/ch/qos/logback/logback-classic/1.5.8/logback-classic-1.5.8.jar.sha1
+size=40
+creationTime=1740874455241
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

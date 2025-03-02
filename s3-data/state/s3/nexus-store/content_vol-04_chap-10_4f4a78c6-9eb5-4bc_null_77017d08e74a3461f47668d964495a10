@@ -1,0 +1,9 @@
+#Sat Mar 01 23:47:58 GMT 2025
+sha1=f45480992401b1097fbd12ebd1e05bc6fc0d3035
+@BlobStore.blob-name=/org/flywaydb/flyway-core/10.18.2/flyway-core-10.18.2.pom.sha1
+size=40
+creationTime=1740872877368
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

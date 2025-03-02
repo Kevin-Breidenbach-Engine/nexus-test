@@ -1,0 +1,9 @@
+#Sun Mar 02 00:07:43 GMT 2025
+sha1=04b855773e3aaff7f181264a222c7f6d2f342ad5
+@BlobStore.blob-name=/com/github/luben/zstd-jni/1.5.5-6/zstd-jni-1.5.5-6.jar.sha1
+size=40
+creationTime=1740874058336
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

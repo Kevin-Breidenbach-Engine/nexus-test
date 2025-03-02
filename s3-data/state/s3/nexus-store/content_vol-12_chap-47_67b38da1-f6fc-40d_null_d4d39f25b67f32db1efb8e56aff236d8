@@ -1,0 +1,9 @@
+#Sun Mar 02 00:22:52 GMT 2025
+sha1=190bf02b7e4dd475f000762cd60e6ccb3012e29a
+@BlobStore.blob-name=/io/netty/netty-common/4.1.114.Final/netty-common-4.1.114.Final-sources.jar
+size=671965
+creationTime=1740874965954
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

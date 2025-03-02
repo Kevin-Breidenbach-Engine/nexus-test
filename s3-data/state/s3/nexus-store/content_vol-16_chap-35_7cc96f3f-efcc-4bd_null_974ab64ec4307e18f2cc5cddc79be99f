@@ -1,0 +1,9 @@
+#Sat Mar 01 23:52:31 GMT 2025
+sha1=6c517cddae7893aba5bf9f051c44860a4fc18211
+@BlobStore.blob-name=/org/junit/junit-bom/5.11.0-M2/junit-bom-5.11.0-M2.pom
+size=5706
+creationTime=1740873151302
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

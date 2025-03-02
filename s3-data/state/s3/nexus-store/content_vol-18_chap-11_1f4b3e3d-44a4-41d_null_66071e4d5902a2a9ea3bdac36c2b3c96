@@ -1,0 +1,9 @@
+#Sat Mar 01 23:48:32 GMT 2025
+sha1=649b700a1b2b4a1d87e7ae8e3f47bfe101b2a4a5
+@BlobStore.blob-name=/org/apache/apache/21/apache-21.pom
+size=17107
+creationTime=1740872912660
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

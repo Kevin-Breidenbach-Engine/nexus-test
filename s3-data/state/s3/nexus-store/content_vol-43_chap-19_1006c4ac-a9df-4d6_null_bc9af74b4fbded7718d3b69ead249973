@@ -1,0 +1,9 @@
+#Sat Mar 01 23:54:17 GMT 2025
+sha1=f86e8cf80b38e8d81b7cfa8c766d053aa2c11f87
+@BlobStore.blob-name=/org/scala-lang/modules/scala-asm/9.6.0-scala-1/scala-asm-9.6.0-scala-1.pom
+size=1488
+creationTime=1740873254338
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

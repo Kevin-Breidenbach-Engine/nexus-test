@@ -1,0 +1,9 @@
+#Sat Mar 01 23:59:18 GMT 2025
+sha1=e66209381cb84fdfd57236f719d1abedf4918e92
+@BlobStore.blob-name=/org/scala-lang/tasty-core_3/3.5.0/tasty-core_3-3.5.0.jar
+size=96341
+creationTime=1740873554370
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

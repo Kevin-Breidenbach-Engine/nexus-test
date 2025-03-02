@@ -1,0 +1,9 @@
+#Sun Mar 02 00:18:57 GMT 2025
+sha1=7542b051a43728abac464511a2adcd96eb788c1c
+@BlobStore.blob-name=/com/github/docker-java/docker-java-transport/3.3.3/docker-java-transport-3.3.3.pom.sha1
+size=40
+creationTime=1740874733775
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

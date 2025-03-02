@@ -1,0 +1,9 @@
+#Sun Mar 02 00:00:49 GMT 2025
+sha1=8c96e36c14461fc436bb02b264b96ef3ca5dca8c
+@BlobStore.blob-name=/com/zaxxer/HikariCP/5.1.0/HikariCP-5.1.0.jar
+size=161840
+creationTime=1740873644994
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

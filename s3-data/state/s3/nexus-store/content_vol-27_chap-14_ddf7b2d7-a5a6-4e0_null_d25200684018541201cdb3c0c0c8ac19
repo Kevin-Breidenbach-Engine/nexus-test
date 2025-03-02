@@ -1,0 +1,9 @@
+#Sat Mar 01 23:50:38 GMT 2025
+sha1=ef2414296f67dbb88b273b4b6e026e625d827a5f
+@BlobStore.blob-name=/com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.15.2/jackson-dataformats-text-2.15.2.pom
+size=3477
+creationTime=1740873036301
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

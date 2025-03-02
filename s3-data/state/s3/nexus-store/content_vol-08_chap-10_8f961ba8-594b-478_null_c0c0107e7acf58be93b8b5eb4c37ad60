@@ -1,0 +1,9 @@
+#Sun Mar 02 00:19:10 GMT 2025
+sha1=c843de3ef0c4471975a03f1c634d13a0631ffb69
+@BlobStore.blob-name=/com/dimafeng/testcontainers-scala-munit_3/0.41.4/testcontainers-scala-munit_3-0.41.4.jar
+size=36277
+creationTime=1740874744684
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

@@ -1,0 +1,9 @@
+#Sun Mar 02 00:38:42 GMT 2025
+sha1=a5d839c68281738d85bac3c93a56be3c63bad897
+@BlobStore.blob-name=/software/amazon/awssdk/http-auth-aws-eventstream/2.29.6/http-auth-aws-eventstream-2.29.6-sources.jar.sha1
+size=40
+creationTime=1740875916366
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

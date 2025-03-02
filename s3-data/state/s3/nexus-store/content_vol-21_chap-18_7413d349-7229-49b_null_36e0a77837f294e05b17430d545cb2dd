@@ -1,0 +1,9 @@
+#Sun Mar 02 00:06:11 GMT 2025
+sha1=99ae43e078fd35ae01c3daff7e8a4eec43b79041
+@BlobStore.blob-name=/org/apache/avro/avro/1.11.3/avro-1.11.3.jar.sha1
+size=40
+creationTime=1740873966716
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

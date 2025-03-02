@@ -1,0 +1,9 @@
+#Sat Mar 01 23:57:23 GMT 2025
+sha1=47003a8d30c4174338dfc4da85e144cd61af13f3
+@BlobStore.blob-name=/com/fasterxml/jackson/jackson-bom/2.12.1/jackson-bom-2.12.1.pom
+size=14563
+creationTime=1740873442677
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

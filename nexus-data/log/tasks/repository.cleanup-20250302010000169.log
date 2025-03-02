@@ -1,0 +1,15 @@
+2025-03-02 01:00:00,171+0000 INFO  [quartz-10-thread-20]  *SYSTEM org.sonatype.nexus.cleanup.internal.task.CleanupTask - Task information:
+2025-03-02 01:00:00,194+0000 INFO  [quartz-10-thread-20]  *SYSTEM org.sonatype.nexus.cleanup.internal.task.CleanupTask -  ID: 838158d5-4320-4c59-9c68-2004bc1b94e8
+2025-03-02 01:00:00,194+0000 INFO  [quartz-10-thread-20]  *SYSTEM org.sonatype.nexus.cleanup.internal.task.CleanupTask -  Type: repository.cleanup
+2025-03-02 01:00:00,194+0000 INFO  [quartz-10-thread-20]  *SYSTEM org.sonatype.nexus.cleanup.internal.task.CleanupTask -  Name: Cleanup service
+2025-03-02 01:00:00,194+0000 INFO  [quartz-10-thread-20]  *SYSTEM org.sonatype.nexus.cleanup.internal.task.CleanupTask -  Description: Run repository cleanup
+2025-03-02 01:00:00,202+0000 INFO  [quartz-10-thread-20]  *SYSTEM org.sonatype.nexus.cleanup.internal.task.CleanupTask - Starting cleanup
+2025-03-02 01:00:00,219+0000 INFO  [quartz-10-thread-20]  *SYSTEM org.sonatype.nexus.cleanup.internal.content.service.CleanupServiceImpl - Deleting components and assets in repository maven-snapshots using policy engine-maven-snapshot-clean-up
+2025-03-02 01:00:00,255+0000 INFO  [quartz-10-thread-20]  *SYSTEM org.sonatype.nexus.cleanup.internal.content.service.CleanupServiceImpl - 0 assets cleaned up for repository maven-snapshots in total
+2025-03-02 01:00:00,256+0000 INFO  [quartz-10-thread-20]  *SYSTEM org.sonatype.nexus.cleanup.internal.content.service.CleanupServiceImpl - Deleting components and assets in repository maven-releases using policy maven-central-release-clean-up
+2025-03-02 01:00:00,257+0000 INFO  [quartz-10-thread-20]  *SYSTEM org.sonatype.nexus.cleanup.internal.content.service.CleanupServiceImpl - 0 assets cleaned up for repository maven-releases in total
+2025-03-02 01:00:00,257+0000 INFO  [quartz-10-thread-20]  *SYSTEM org.sonatype.nexus.cleanup.internal.content.service.CleanupServiceImpl - Deleting components and assets in repository engine-snapshot using policy engine-maven-snapshot-clean-up
+2025-03-02 01:00:00,272+0000 INFO  [quartz-10-thread-20]  *SYSTEM org.sonatype.nexus.cleanup.internal.content.service.CleanupServiceImpl - 0 assets cleaned up for repository engine-snapshot in total
+2025-03-02 01:00:00,272+0000 INFO  [quartz-10-thread-20]  *SYSTEM org.sonatype.nexus.cleanup.internal.content.service.CleanupServiceImpl - 0 assets cleaned up across all repositories
+2025-03-02 01:00:00,273+0000 INFO  [quartz-10-thread-20]  *SYSTEM org.sonatype.nexus.cleanup.internal.task.CleanupTask - Cleanup finished
+2025-03-02 01:00:00,273+0000 INFO  [quartz-10-thread-20]  *SYSTEM org.sonatype.nexus.cleanup.internal.task.CleanupTask - Task complete

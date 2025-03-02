@@ -1,0 +1,9 @@
+#Sun Mar 02 00:07:33 GMT 2025
+sha1=74fef8b89fcd0719a3407e1fa29eb6ee5c7442ce
+@BlobStore.blob-name=/software/amazon/awssdk/utils/2.29.6/utils-2.29.6.jar.sha1
+size=40
+creationTime=1740874048420
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

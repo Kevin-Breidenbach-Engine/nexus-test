@@ -1,0 +1,9 @@
+#Sun Mar 02 00:22:35 GMT 2025
+sha1=ceb6754e4ee91a22556964e58549124d7ca86c2b
+@BlobStore.blob-name=/software/amazon/awssdk/dynamodb/2.26.31/dynamodb-2.26.31-sources.jar
+size=1592265
+creationTime=1740874949033
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

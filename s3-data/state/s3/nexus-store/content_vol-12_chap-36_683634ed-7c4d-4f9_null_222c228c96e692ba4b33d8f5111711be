@@ -1,0 +1,9 @@
+#Sat Mar 01 23:56:43 GMT 2025
+sha1=32ab44a8a7493dad075a933f1b92bdd0d3bc595c
+@BlobStore.blob-name=/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.12.1/jackson-datatype-jsr310-2.12.1.pom.sha1
+size=40
+creationTime=1740873399509
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

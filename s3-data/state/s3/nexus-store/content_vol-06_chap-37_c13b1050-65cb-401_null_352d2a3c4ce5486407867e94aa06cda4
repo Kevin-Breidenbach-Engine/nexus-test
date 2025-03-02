@@ -1,0 +1,9 @@
+#Sun Mar 02 00:41:24 GMT 2025
+sha1=070361dd1eddc68b11481d9b1d9425f02d6616ee
+@BlobStore.blob-name=/org/scala-sbt/compiler-interface/1.9.6/compiler-interface-1.9.6-sources.jar.sha1
+size=40
+creationTime=1740876079101
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

@@ -1,0 +1,9 @@
+#Sun Mar 02 00:30:45 GMT 2025
+sha1=c2de593a131d6b30e9fd41b45f2b09bc0eb34453
+@BlobStore.blob-name=/com/softwaremill/sttp/apispec/openapi-circe_3/0.11.3/openapi-circe_3-0.11.3-sources.jar
+size=4789
+creationTime=1740875440247
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

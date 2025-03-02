@@ -1,0 +1,9 @@
+#Sun Mar 02 00:10:06 GMT 2025
+sha1=a0cafe89f22eb90000344f8fc8816169b43ff434
+@BlobStore.blob-name=/org/typelevel/literally_3/1.1.0/literally_3-1.1.0.jar.sha1
+size=40
+creationTime=1740874200705
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

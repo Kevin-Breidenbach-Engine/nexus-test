@@ -1,0 +1,9 @@
+#Sat Mar 01 23:58:40 GMT 2025
+sha1=eb8cf8909648578db975124690f00dea094f0b0e
+@BlobStore.blob-name=/software/amazon/awssdk/aws-query-protocol/2.29.6/aws-query-protocol-2.29.6.jar
+size=69394
+creationTime=1740873516736
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

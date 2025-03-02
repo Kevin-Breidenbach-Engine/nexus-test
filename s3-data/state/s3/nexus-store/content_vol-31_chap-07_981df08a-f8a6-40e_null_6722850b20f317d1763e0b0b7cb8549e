@@ -1,0 +1,9 @@
+#Sun Mar 02 00:41:46 GMT 2025
+sha1=c5bdf74f7bbb8dd3a773f4b07c21b30f6c129874
+@BlobStore.blob-name=/org/testcontainers/postgresql/1.19.1/postgresql-1.19.1-sources.jar
+size=5484
+creationTime=1740876101370
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

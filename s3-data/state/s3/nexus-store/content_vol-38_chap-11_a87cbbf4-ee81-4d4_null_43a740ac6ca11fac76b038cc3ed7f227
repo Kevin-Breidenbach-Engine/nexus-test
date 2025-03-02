@@ -1,0 +1,9 @@
+#Sun Mar 02 00:28:42 GMT 2025
+sha1=72aa393bf2a65df54682457070efbff3a52faf50
+@BlobStore.blob-name=/software/amazon/awssdk/annotations/2.29.6/annotations-2.29.6-sources.jar
+size=19591
+creationTime=1740875316960
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

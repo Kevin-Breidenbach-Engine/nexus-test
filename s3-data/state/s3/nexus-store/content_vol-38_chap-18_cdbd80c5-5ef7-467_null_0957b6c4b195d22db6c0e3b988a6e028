@@ -1,0 +1,9 @@
+#Sat Mar 01 23:58:03 GMT 2025
+sha1=9c4557a78037eca5e6d1e668514983728f149ad2
+@BlobStore.blob-name=/software/amazon/awssdk/endpoints-spi/2.29.6/endpoints-spi-2.29.6.jar
+size=13169
+creationTime=1740873479387
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

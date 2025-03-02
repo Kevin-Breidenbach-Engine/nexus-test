@@ -1,0 +1,9 @@
+#Sun Mar 02 00:10:23 GMT 2025
+sha1=ea7f807ea4988ac1e0a34b20bd19b17358fe7ef4
+@BlobStore.blob-name=/software/amazon/awssdk/third-party-jackson-core/2.29.6/third-party-jackson-core-2.29.6.jar.sha1
+size=40
+creationTime=1740874217376
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

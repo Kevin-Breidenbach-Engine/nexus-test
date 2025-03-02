@@ -1,0 +1,9 @@
+#Sat Mar 01 23:54:48 GMT 2025
+sha1=92b1e98d4686c63d6469f4db30ff35b4b363aa14
+@BlobStore.blob-name=/org/jsoup/jsoup/1.17.2/jsoup-1.17.2.pom
+size=16135
+creationTime=1740873284776
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

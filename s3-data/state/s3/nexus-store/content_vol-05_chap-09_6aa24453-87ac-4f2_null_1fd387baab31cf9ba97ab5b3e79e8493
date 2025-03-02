@@ -1,0 +1,9 @@
+#Sat Mar 01 23:47:12 GMT 2025
+sha1=be00fe9c304461cb2558c0eae6ae1ef6326e5c7c
+@BlobStore.blob-name=/org/postgresql/postgresql/42.7.4/postgresql-42.7.4.pom.sha1
+size=40
+creationTime=1740872831541
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

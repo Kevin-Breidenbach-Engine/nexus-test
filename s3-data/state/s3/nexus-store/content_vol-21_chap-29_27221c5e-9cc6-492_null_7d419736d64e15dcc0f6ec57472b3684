@@ -1,0 +1,9 @@
+#Sun Mar 02 00:26:28 GMT 2025
+sha1=14fff5b9b6c84f3b3a1fe0980e8560a555df07c0
+@BlobStore.blob-name=/org/antlr/antlr4-runtime/4.7.2/antlr4-runtime-4.7.2-sources.jar
+size=320236
+creationTime=1740875182799
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

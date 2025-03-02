@@ -1,0 +1,9 @@
+#Sun Mar 02 00:15:50 GMT 2025
+sha1=08c2c288559deb0a645011b0b8d047e579e7835c
+@BlobStore.blob-name=/org/scalameta/munit-scalacheck_3/1.0.0/munit-scalacheck_3-1.0.0.pom
+size=2187
+creationTime=1740874544548
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

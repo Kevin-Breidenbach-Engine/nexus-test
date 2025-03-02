@@ -1,0 +1,9 @@
+#Sun Mar 02 00:14:49 GMT 2025
+sha1=4f33123f45da6e6a5cbd5f3f134089678fa344ea
+@BlobStore.blob-name=/io/netty/netty-transport/4.1.114.Final/netty-transport-4.1.114.Final.jar.sha1
+size=40
+creationTime=1740874483902
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

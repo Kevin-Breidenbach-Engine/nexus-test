@@ -1,0 +1,9 @@
+#Sat Mar 01 23:56:54 GMT 2025
+sha1=d6c013cdefa40c9314cd1fdea34960e07d09dc9c
+@BlobStore.blob-name=/org/antlr/antlr4-runtime/4.7.2/antlr4-runtime-4.7.2.pom.sha1
+size=40
+creationTime=1740873410940
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

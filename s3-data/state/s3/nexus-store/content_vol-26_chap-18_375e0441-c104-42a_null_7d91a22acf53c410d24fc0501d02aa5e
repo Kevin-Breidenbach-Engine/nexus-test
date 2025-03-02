@@ -1,0 +1,9 @@
+#Sun Mar 02 00:18:15 GMT 2025
+sha1=7830c3b35291b3029e592875c992274d663b01c9
+@BlobStore.blob-name=/com/github/docker-java/docker-java-transport-zerodep/3.3.3/docker-java-transport-zerodep-3.3.3.pom.sha1
+size=40
+creationTime=1740874689612
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

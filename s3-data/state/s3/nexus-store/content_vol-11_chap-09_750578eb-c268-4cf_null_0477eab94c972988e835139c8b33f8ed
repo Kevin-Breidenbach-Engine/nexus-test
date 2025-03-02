@@ -1,0 +1,9 @@
+#Sat Mar 01 23:48:50 GMT 2025
+sha1=7c4cd4c91fe7416b780f6426387931960da9e908
+@BlobStore.blob-name=/software/amazon/awssdk/metrics-spi/2.29.6/metrics-spi-2.29.6.pom
+size=3673
+creationTime=1740872928939
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

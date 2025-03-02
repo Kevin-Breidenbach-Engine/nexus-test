@@ -1,0 +1,9 @@
+#Sun Mar 02 00:23:44 GMT 2025
+sha1=9d186da14f626f4117de2088be44e24ade7e46c8
+@BlobStore.blob-name=/org/flywaydb/flyway-database-postgresql/10.18.2/flyway-database-postgresql-10.18.2-sources.jar
+size=35622
+creationTime=1740875018070
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

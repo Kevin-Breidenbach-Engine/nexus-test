@@ -1,0 +1,9 @@
+#Sat Mar 01 23:50:37 GMT 2025
+sha1=54ec52fe6cda8a12044d2a6251cafa862059085b
+@BlobStore.blob-name=/software/amazon/awssdk/protocols/2.29.6/protocols-2.29.6.pom
+size=1600
+creationTime=1740873035576
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

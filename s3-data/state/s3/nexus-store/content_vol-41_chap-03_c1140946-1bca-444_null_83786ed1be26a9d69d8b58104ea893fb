@@ -1,0 +1,9 @@
+#Sun Mar 02 00:04:12 GMT 2025
+sha1=4b986a99445e49ea5fbf5d149c4b63f6ed6c6780
+@BlobStore.blob-name=/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar
+size=682804
+creationTime=1740873847857
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

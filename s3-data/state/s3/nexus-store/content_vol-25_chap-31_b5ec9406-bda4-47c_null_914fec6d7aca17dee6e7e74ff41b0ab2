@@ -1,0 +1,9 @@
+#Sat Mar 01 23:53:18 GMT 2025
+sha1=3264a20cda3d7b01815fb83a59cd124c25689f02
+@BlobStore.blob-name=/com/fasterxml/jackson/jackson-base/2.17.2/jackson-base-2.17.2.pom
+size=11768
+creationTime=1740873196333
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

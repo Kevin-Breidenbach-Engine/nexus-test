@@ -1,0 +1,9 @@
+#Sun Mar 02 00:17:10 GMT 2025
+sha1=375069892675223dffb6a7d769ce86ef9a7f36c8
+@BlobStore.blob-name=/junit/junit/4.13.2/junit-4.13.2.pom.sha1
+size=40
+creationTime=1740874626190
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

@@ -1,0 +1,9 @@
+#Sun Mar 02 00:17:59 GMT 2025
+sha1=3fe5741e9fdb97f00708d45d849b93a280f5e9d6
+@BlobStore.blob-name=/org/rnorth/duct-tape/duct-tape/1.0.8/duct-tape-1.0.8.pom
+size=6218
+creationTime=1740874674036
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

@@ -1,0 +1,9 @@
+#Sat Mar 01 23:49:34 GMT 2025
+sha1=9da50b2a89135e5209dfaa05987a1c3081e43003
+@BlobStore.blob-name=/software/amazon/awssdk/json-utils/2.29.6/json-utils-2.29.6.pom
+size=3488
+creationTime=1740872972842
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

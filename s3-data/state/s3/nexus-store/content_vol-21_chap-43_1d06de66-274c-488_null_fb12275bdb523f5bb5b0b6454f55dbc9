@@ -1,0 +1,9 @@
+#Sun Mar 02 00:53:20 GMT 2025
+sha1=99c67a1a48b9b77264e7d20df1a2e812451ef071
+@BlobStore.blob-name=/tech/engine/identity_3/1.1.5-SNAPSHOT/identity_3-1.1.5-SNAPSHOT-javadoc.jar
+size=189
+creationTime=1740876798687
+@Bucket.repo-name=engine-snapshot
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=github-actions
+@BlobStore.content-type=application/java-archive

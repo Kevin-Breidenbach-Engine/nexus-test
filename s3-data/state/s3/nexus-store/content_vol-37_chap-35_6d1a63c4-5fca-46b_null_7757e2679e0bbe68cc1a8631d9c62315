@@ -1,0 +1,9 @@
+#Sat Mar 01 23:48:27 GMT 2025
+sha1=25b802f2cb67445bb6f211306523cffd4bf162be
+@BlobStore.blob-name=/software/amazon/awssdk/aws-sdk-java-pom/2.27.22/aws-sdk-java-pom-2.27.22.pom.sha1
+size=40
+creationTime=1740872907197
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

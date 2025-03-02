@@ -1,0 +1,9 @@
+#Sat Mar 01 23:52:36 GMT 2025
+sha1=0d94b515c1a6cc45f3c01afca9069cf5856c304b
+@BlobStore.blob-name=/io/netty/netty-transport-native-unix-common/4.1.114.Final/netty-transport-native-unix-common-4.1.114.Final.pom.sha1
+size=40
+creationTime=1740873155717
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

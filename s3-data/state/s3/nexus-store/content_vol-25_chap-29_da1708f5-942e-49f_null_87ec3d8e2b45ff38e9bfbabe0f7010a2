@@ -1,0 +1,9 @@
+#Sun Mar 02 00:27:16 GMT 2025
+sha1=c274a58df62f1af02b448bc70b0834b79782c110
+@BlobStore.blob-name=/software/amazon/awssdk/retries-spi/2.29.6/retries-spi-2.29.6-sources.jar
+size=32840
+creationTime=1740875231086
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

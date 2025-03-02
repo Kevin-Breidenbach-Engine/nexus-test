@@ -1,0 +1,9 @@
+#Sun Mar 02 00:02:50 GMT 2025
+sha1=bc9647ea4db3ce46afe1dc1430836465c2d025ee
+@BlobStore.blob-name=/com/softwaremill/quicklens/quicklens_3/1.9.7/quicklens_3-1.9.7.jar
+size=121302
+creationTime=1740873764837
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

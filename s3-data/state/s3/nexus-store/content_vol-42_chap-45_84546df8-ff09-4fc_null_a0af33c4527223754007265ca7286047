@@ -1,0 +1,9 @@
+#Sun Mar 02 00:30:35 GMT 2025
+sha1=e46282033fcc73c8b9eb55f297b264cee3680f29
+@BlobStore.blob-name=/org/jetbrains/annotations/15.0/annotations-15.0-sources.jar
+size=18486
+creationTime=1740875430116
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

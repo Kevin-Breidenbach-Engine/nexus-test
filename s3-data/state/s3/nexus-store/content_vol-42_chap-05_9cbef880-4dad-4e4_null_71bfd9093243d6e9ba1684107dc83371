@@ -1,0 +1,9 @@
+#Sun Mar 02 00:06:27 GMT 2025
+sha1=321ef18899dd67367b94a22ff635ec2ac1b71fd2
+@BlobStore.blob-name=/org/scala-lang/scala3-compiler_3/3.5.0/scala3-compiler_3-3.5.0.jar.sha1
+size=40
+creationTime=1740873982353
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

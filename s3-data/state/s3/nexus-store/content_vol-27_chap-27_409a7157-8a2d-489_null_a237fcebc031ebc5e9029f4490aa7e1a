@@ -1,0 +1,9 @@
+#Sat Mar 01 23:48:19 GMT 2025
+sha1=ab8e61c839ccef2b4fbefe978a0eb41f1c3769e4
+@BlobStore.blob-name=/software/amazon/awssdk/services/2.26.31/services-2.26.31.pom
+size=23825
+creationTime=1740872898740
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

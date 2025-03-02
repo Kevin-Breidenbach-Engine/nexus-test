@@ -1,0 +1,9 @@
+#Sun Mar 02 00:26:32 GMT 2025
+sha1=38e2bd26f14b9e9422f8af31d2812caacc15ced0
+@BlobStore.blob-name=/software/amazon/awssdk/http-client-spi/2.29.6/http-client-spi-2.29.6-sources.jar
+size=65959
+creationTime=1740875186624
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

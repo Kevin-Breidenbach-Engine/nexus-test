@@ -1,0 +1,9 @@
+#Sat Mar 01 23:52:26 GMT 2025
+sha1=2e08f841a6fbc946452701faaf5e39a17ac97ef3
+@BlobStore.blob-name=/org/apache/apache/32/apache-32.pom
+size=24184
+creationTime=1740873145668
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

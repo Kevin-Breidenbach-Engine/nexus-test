@@ -1,0 +1,9 @@
+#Sun Mar 02 00:25:30 GMT 2025
+sha1=11be4ea2b39d9b8e844e05fecdc621552aeeb136
+@BlobStore.blob-name=/com/fasterxml/jackson/core/jackson-core/2.17.1/jackson-core-2.17.1-sources.jar
+size=488697
+creationTime=1740875124867
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

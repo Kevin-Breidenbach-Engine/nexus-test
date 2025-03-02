@@ -1,0 +1,9 @@
+#Sat Mar 01 23:59:58 GMT 2025
+sha1=df80ede15cb0bc1804a991be5e5f63b25ddc8963
+@BlobStore.blob-name=/org/http4s/http4s-dsl_3/0.23.28/http4s-dsl_3-0.23.28.jar
+size=286445
+creationTime=1740873593897
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

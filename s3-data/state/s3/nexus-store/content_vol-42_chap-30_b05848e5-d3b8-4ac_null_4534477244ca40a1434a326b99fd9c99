@@ -1,0 +1,9 @@
+#Sun Mar 02 00:18:58 GMT 2025
+sha1=0da7ba8bdcbf3676104bbf153bc35abe97250144
+@BlobStore.blob-name=/org/jetbrains/annotations/17.0.0/annotations-17.0.0.pom.sha1
+size=40
+creationTime=1740874734985
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

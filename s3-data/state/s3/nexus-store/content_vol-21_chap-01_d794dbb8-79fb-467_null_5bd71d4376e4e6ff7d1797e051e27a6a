@@ -1,0 +1,9 @@
+#Sun Mar 02 00:00:44 GMT 2025
+sha1=c324239cb580b00297fd16d2cae6a4c678859b00
+@BlobStore.blob-name=/org/tpolecat/doobie-hikari_3/1.0.0-RC5/doobie-hikari_3-1.0.0-RC5.jar
+size=34898
+creationTime=1740873639450
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

@@ -1,0 +1,9 @@
+#Sun Mar 02 00:27:16 GMT 2025
+sha1=7826b3c28c6d3491875d267ecf8f573fcf03da56
+@BlobStore.blob-name=/org/xerial/snappy/snappy-java/1.1.10.5/snappy-java-1.1.10.5-sources.jar
+size=2288777
+creationTime=1740875231130
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

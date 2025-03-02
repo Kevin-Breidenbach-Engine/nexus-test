@@ -1,0 +1,9 @@
+#Sun Mar 02 00:16:55 GMT 2025
+sha1=5dc1a46087c68d56db4676ff099f657baa57d387
+@BlobStore.blob-name=/org/testcontainers/kafka/1.19.1/kafka-1.19.1.pom.sha1
+size=40
+creationTime=1740874609457
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

@@ -1,0 +1,9 @@
+#Sun Mar 02 00:35:17 GMT 2025
+sha1=da6954c01aaae5297b54a2f1e2172a03582368b8
+@BlobStore.blob-name=/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14-sources.jar.sha1
+size=40
+creationTime=1740875711949
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

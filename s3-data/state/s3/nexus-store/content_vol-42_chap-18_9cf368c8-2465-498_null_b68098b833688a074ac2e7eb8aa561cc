@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.github.fd4s</groupId>
+    <artifactId>fs2-kafka_3</artifactId>
+    <packaging>jar</packaging>
+    <description>fs2-kafka</description>
+    <url>https://fd4s.github.io/fs2-kafka</url>
+    <version>3.5.1</version>
+    <licenses>
+        <license>
+            <name>Apache-2.0</name>
+            <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+    <name>fs2-kafka</name>
+    <inceptionYear>2018</inceptionYear>
+    <organization>
+        <name>Typelevel</name>
+        <url>https://typelevel.org</url>
+    </organization>
+    <scm>
+        <url>https://github.com/fd4s/fs2-kafka</url>
+        <connection>scm:git:https://github.com/fd4s/fs2-kafka.git</connection>
+        <developerConnection>scm:git:git@github.com:fd4s/fs2-kafka.git</developerConnection>
+    </scm>
+    <developers>
+        <developer>
+            <id>vlovgr</id>
+            <name>Viktor Lövgren</name>
+            <url>https://vlovgr.se</url>
+            <email>github@vlovgr.se</email>
+        </developer>
+        <developer>
+            <id>bplommer</id>
+            <name>Ben Plommer</name>
+            <url>https://github.com/bplommer</url>
+            <email>@bplommer</email>
+        </developer>
+        <developer>
+            <id>LMNet</id>
+            <name>Yuriy Badalyantc</name>
+            <url>https://github.com/LMNet</url>
+            <email>lmnet89@gmail.com</email>
+        </developer>
+        <developer>
+            <id>aartigao</id>
+            <name>Alan Artigao</name>
+            <url>https://github.com/aartigao</url>
+            <email>alanartigao@gmail.com</email>
+        </developer>
+    </developers>
+    <properties>
+        <info.apiURL>https://www.javadoc.io/doc/com.github.fd4s/fs2-kafka_3/3.5.1/</info.apiURL>
+        <info.releaseNotesUrl>https://github.com/fd4s/fs2-kafka/releases/tag/v3.5.1</info.releaseNotesUrl>
+        <info.versionScheme>early-semver</info.versionScheme>
+    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>scala3-library_3</artifactId>
+            <version>3.3.3</version>
+        </dependency>
+        <dependency>
+            <groupId>co.fs2</groupId>
+            <artifactId>fs2-core_3</artifactId>
+            <version>3.10.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.typelevel</groupId>
+            <artifactId>cats-effect_3</artifactId>
+            <version>3.5.4</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.kafka</groupId>
+            <artifactId>kafka-clients</artifactId>
+            <version>3.7.0</version>
+        </dependency>
+    </dependencies>
+</project>

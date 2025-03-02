@@ -1,0 +1,9 @@
+#Sun Mar 02 00:00:51 GMT 2025
+sha1=c854cf1358e611d4a566170e4fa0d99606c28ec8
+@BlobStore.blob-name=/com/fasterxml/uuid/java-uuid-generator/5.1.0/java-uuid-generator-5.1.0.jar
+size=56068
+creationTime=1740873647118
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

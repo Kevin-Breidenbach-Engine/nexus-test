@@ -1,0 +1,9 @@
+#Sun Mar 02 00:28:10 GMT 2025
+sha1=e37551ec5f06506748cab08a10e76d661e4646c2
+@BlobStore.blob-name=/com/ovoenergy/natchez-extras-datadog-stable_3/8.1.1/natchez-extras-datadog-stable_3-8.1.1-sources.jar
+size=11564
+creationTime=1740875285005
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

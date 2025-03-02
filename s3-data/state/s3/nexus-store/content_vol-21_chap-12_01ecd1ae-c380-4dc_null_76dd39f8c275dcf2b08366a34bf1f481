@@ -1,0 +1,9 @@
+#Sun Mar 02 00:08:59 GMT 2025
+sha1=d465a21836c00c45cd14485eaa4257f5421342d3
+@BlobStore.blob-name=/org/log4s/log4s_3/1.10.0/log4s_3-1.10.0.jar.sha1
+size=40
+creationTime=1740874133433
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

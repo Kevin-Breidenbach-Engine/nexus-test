@@ -1,0 +1,9 @@
+#Sun Mar 02 00:39:13 GMT 2025
+sha1=9f739d029f626ff31116e2997e4751b291a09ea7
+@BlobStore.blob-name=/software/amazon/awssdk/sso/2.26.8/sso-2.26.8-sources.jar.sha1
+size=40
+creationTime=1740875947006
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

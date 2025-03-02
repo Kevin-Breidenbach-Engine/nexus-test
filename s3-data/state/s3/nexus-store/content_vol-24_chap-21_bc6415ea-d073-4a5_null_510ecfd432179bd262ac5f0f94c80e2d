@@ -1,0 +1,9 @@
+#Sat Mar 01 23:48:00 GMT 2025
+sha1=ebcb0f35281c68fe78b705fd08867d0ca1b3954c
+@BlobStore.blob-name=/org/scanamo/scanamo_3/3.0.0/scanamo_3-3.0.0.pom.sha1
+size=40
+creationTime=1740872879437
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

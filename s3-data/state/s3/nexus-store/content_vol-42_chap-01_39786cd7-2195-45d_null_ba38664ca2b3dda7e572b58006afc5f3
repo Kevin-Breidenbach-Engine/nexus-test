@@ -1,0 +1,9 @@
+#Sun Mar 02 00:32:17 GMT 2025
+sha1=b646b619e0d69173ccd6d4d0132912e45fd826ad
+@BlobStore.blob-name=/org/scala-lang/modules/scala-java8-compat_3/1.0.2/scala-java8-compat_3-1.0.2-sources.jar.sha1
+size=40
+creationTime=1740875531777
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

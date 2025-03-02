@@ -1,0 +1,9 @@
+#Sat Mar 01 23:58:52 GMT 2025
+sha1=550d13014a07761e885f37ac9287d84dc30361c4
+@BlobStore.blob-name=/software/amazon/awssdk/aws-json-protocol/2.26.31/aws-json-protocol-2.26.31.jar
+size=114950
+creationTime=1740873527910
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

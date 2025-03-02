@@ -1,0 +1,9 @@
+#Sat Mar 01 23:53:07 GMT 2025
+sha1=69a9474c383f7a371493349f33361a3a5cb6e586
+@BlobStore.blob-name=/software/amazon/awssdk/ssooidc/2.26.8/ssooidc-2.26.8.pom.sha1
+size=40
+creationTime=1740873185093
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

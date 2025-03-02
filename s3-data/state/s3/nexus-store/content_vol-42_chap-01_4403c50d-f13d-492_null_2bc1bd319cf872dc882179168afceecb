@@ -1,0 +1,9 @@
+#Sat Mar 01 23:51:12 GMT 2025
+sha1=2f02ff29e5639e45d27749459e3369e520b61876
+@BlobStore.blob-name=/org/apache/apache/18/apache-18.pom.sha1
+size=40
+creationTime=1740873071361
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

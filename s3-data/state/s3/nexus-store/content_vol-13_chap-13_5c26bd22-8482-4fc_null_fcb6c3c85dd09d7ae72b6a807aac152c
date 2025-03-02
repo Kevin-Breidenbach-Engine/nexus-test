@@ -1,0 +1,9 @@
+#Sun Mar 02 00:19:13 GMT 2025
+sha1=68e218cd7512c2f6d926f75a618c8934afe4502a
+@BlobStore.blob-name=/org/testcontainers/database-commons/1.19.1/database-commons-1.19.1.jar
+size=10361
+creationTime=1740874748046
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

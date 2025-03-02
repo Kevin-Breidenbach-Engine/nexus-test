@@ -1,0 +1,9 @@
+#Sun Mar 02 00:31:27 GMT 2025
+sha1=bdf9d79a3b069cb2d872b12014e0acc6be8c99f6
+@BlobStore.blob-name=/org/typelevel/cats-free_3/2.12.0/cats-free_3-2.12.0-sources.jar
+size=29087
+creationTime=1740875482060
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

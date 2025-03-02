@@ -1,0 +1,9 @@
+#Sun Mar 02 00:04:42 GMT 2025
+sha1=66e6a0a160e445df79f9b256f66dc2bde9d6b57a
+@BlobStore.blob-name=/org/scala-sbt/util-interface/1.9.8/util-interface-1.9.8.jar
+size=4489
+creationTime=1740873877938
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

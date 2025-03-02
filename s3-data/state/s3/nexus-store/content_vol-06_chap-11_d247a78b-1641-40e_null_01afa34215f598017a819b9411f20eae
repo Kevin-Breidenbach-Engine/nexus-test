@@ -1,0 +1,9 @@
+#Sat Mar 01 23:48:36 GMT 2025
+sha1=18112dc976a3233d3820abff0900245de756c427
+@BlobStore.blob-name=/software/amazon/awssdk/bom-internal/2.29.6/bom-internal-2.29.6.pom
+size=20672
+creationTime=1740872915294
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

@@ -1,0 +1,9 @@
+#Sat Mar 01 23:49:39 GMT 2025
+sha1=a80fd80b654c988935f7a865070093b6100d5435
+@BlobStore.blob-name=/org/yaml/snakeyaml/2.2/snakeyaml-2.2.pom.sha1
+size=40
+creationTime=1740872977311
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

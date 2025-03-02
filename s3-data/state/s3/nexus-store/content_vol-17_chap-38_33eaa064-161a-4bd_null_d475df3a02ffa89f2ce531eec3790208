@@ -1,0 +1,9 @@
+#Sat Mar 01 23:50:22 GMT 2025
+sha1=2bb9b5342f27542b29b5146f66f6eae2604b7b5b
+@BlobStore.blob-name=/commons-logging/commons-logging/1.2/commons-logging-1.2.pom.sha1
+size=40
+creationTime=1740873019938
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

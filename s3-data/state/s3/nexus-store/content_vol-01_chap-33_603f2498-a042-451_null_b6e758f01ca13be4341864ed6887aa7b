@@ -1,0 +1,9 @@
+#Sun Mar 02 00:02:28 GMT 2025
+sha1=3e2869a231315c90612de2b59e17aa2e5e0a7519
+@BlobStore.blob-name=/software/amazon/awssdk/sdk-core/2.29.6/sdk-core-2.29.6.jar
+size=975034
+creationTime=1740873743575
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

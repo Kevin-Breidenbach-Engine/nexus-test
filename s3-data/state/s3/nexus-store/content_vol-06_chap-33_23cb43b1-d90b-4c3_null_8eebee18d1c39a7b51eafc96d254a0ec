@@ -1,0 +1,9 @@
+#Sun Mar 02 00:32:12 GMT 2025
+sha1=0aed7f18387831f1eed18c905407573cc87dd894
+@BlobStore.blob-name=/software/amazon/eventstream/eventstream/1.0.1/eventstream-1.0.1-sources.jar.sha1
+size=40
+creationTime=1740875527540
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

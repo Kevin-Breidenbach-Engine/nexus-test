@@ -1,0 +1,9 @@
+#Sun Mar 02 00:29:30 GMT 2025
+sha1=dcfb6710eff631e2e290c86481d5432fb1e80fa7
+@BlobStore.blob-name=/org/typelevel/cats-effect-kernel_3/3.5.4/cats-effect-kernel_3-3.5.4-sources.jar
+size=81615
+creationTime=1740875365226
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

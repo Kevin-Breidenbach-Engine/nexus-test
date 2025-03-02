@@ -1,0 +1,9 @@
+#Sun Mar 02 00:00:17 GMT 2025
+sha1=36fefc4aced30760425d8850881571cf8db1f607
+@BlobStore.blob-name=/org/typelevel/log4cats-core_3/2.7.0/log4cats-core_3-2.7.0.jar
+size=197276
+creationTime=1740873612849
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

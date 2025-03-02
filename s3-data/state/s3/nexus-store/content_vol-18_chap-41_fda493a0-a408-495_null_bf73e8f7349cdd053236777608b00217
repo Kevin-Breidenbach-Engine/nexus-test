@@ -1,0 +1,9 @@
+#Sun Mar 02 00:20:06 GMT 2025
+sha1=22f9e8d0dc5a89fbcfb8e5182b36a49d989f87a0
+@BlobStore.blob-name=/com/github/docker-java/docker-java-api/3.3.3/docker-java-api-3.3.3.jar
+size=470861
+creationTime=1740874800685
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

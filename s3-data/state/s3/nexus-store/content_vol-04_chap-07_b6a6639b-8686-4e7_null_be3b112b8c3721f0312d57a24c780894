@@ -1,0 +1,9 @@
+#Sun Mar 02 00:21:08 GMT 2025
+sha1=b2976cd61b9e6e2814cd3b6c45dd8f61387f9aa5
+@BlobStore.blob-name=/com/dimafeng/testcontainers-scala-core_3/0.41.4/testcontainers-scala-core_3-0.41.4.jar.sha1
+size=40
+creationTime=1740874862763
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

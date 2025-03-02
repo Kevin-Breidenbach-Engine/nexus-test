@@ -1,0 +1,9 @@
+#Sun Mar 02 00:18:41 GMT 2025
+sha1=5d58a8f2d69adacc74c698f257b4ceeeede156e1
+@BlobStore.blob-name=/org/apache/apache/30/apache-30.pom.sha1
+size=40
+creationTime=1740874720088
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

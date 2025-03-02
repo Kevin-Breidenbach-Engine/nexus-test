@@ -1,0 +1,9 @@
+#Sat Mar 01 23:48:45 GMT 2025
+sha1=3c1f6e67bdab0d4c514cae3bac0c84f340473cf0
+@BlobStore.blob-name=/com/fasterxml/jackson/jackson-parent/2.14/jackson-parent-2.14.pom.sha1
+size=40
+creationTime=1740872924845
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

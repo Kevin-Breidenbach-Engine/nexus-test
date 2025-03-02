@@ -1,0 +1,9 @@
+#Sat Mar 01 23:52:39 GMT 2025
+sha1=2c4cc18d0083aa2ee1fcce5a0808292f1e6ad77e
+@BlobStore.blob-name=/net/logstash/logback/logstash-logback-encoder/8.0/logstash-logback-encoder-8.0.pom
+size=5278
+creationTime=1740873158076
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

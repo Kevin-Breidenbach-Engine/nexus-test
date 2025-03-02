@@ -1,0 +1,9 @@
+#Sat Mar 01 23:57:52 GMT 2025
+sha1=5cf0cc9765e3622e298897a5e5b089b6867a5a7e
+@BlobStore.blob-name=/org/scala-lang/scala3-interfaces/3.5.0/scala3-interfaces-3.5.0.jar
+size=3961
+creationTime=1740873467971
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

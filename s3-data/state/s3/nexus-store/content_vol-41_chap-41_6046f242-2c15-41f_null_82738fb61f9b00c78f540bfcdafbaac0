@@ -1,0 +1,9 @@
+#Sat Mar 01 23:50:10 GMT 2025
+sha1=9f55c82493e4c6526acd4705c379de74c7bd2511
+@BlobStore.blob-name=/org/typelevel/cats-effect-kernel_3/3.5.4/cats-effect-kernel_3-3.5.4.pom.sha1
+size=40
+creationTime=1740873008084
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

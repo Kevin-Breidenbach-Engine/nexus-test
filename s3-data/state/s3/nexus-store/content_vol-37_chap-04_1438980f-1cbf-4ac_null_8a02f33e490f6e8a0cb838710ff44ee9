@@ -1,0 +1,9 @@
+#Sun Mar 02 00:20:01 GMT 2025
+sha1=b1e93a735caea94f503e95e6fe79bf9cdc1e985d
+@BlobStore.blob-name=/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar
+size=1866196
+creationTime=1740874796058
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

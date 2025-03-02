@@ -1,0 +1,9 @@
+#Sat Mar 01 23:29:07 GMT 2025
+sha1=e51e5617ea0447af47d4b49bcdd53be0e53ef2e1
+@BlobStore.blob-name=/com/evenfinancial/lib/avro-events_3/0.677/avro-events_3-0.677.pom.md5
+size=32
+creationTime=1740871747708
+@Bucket.repo-name=engine-release
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=github-actions
+@BlobStore.content-type=application/octet-stream

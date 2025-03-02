@@ -1,0 +1,9 @@
+#Sun Mar 02 00:15:18 GMT 2025
+sha1=85e3f3c84ab89e4e7e1e9bca0ed59bb433c8dd18
+@BlobStore.blob-name=/org/scala-lang/scala-library/2.13.14/scala-library-2.13.14.jar.sha1
+size=40
+creationTime=1740874512581
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

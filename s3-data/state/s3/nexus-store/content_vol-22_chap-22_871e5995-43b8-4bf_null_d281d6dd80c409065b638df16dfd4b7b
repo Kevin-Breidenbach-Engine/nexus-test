@@ -1,0 +1,9 @@
+#Sat Mar 01 23:47:07 GMT 2025
+sha1=de8e989b89896e1f8d19c4bcde1f9e0572bce917
+@BlobStore.blob-name=/software/amazon/jdbc/aws-advanced-jdbc-wrapper/2.5.3/aws-advanced-jdbc-wrapper-2.5.3.pom.sha1
+size=40
+creationTime=1740872827355
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

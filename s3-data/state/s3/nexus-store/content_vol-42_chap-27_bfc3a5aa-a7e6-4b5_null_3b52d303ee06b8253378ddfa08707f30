@@ -1,0 +1,9 @@
+#Sun Mar 02 00:29:55 GMT 2025
+sha1=c7a2abfe0e00cbd0d016125e85a00f016ae6e64f
+@BlobStore.blob-name=/software/amazon/awssdk/apache-client/2.29.6/apache-client-2.29.6-sources.jar
+size=50750
+creationTime=1740875389357
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

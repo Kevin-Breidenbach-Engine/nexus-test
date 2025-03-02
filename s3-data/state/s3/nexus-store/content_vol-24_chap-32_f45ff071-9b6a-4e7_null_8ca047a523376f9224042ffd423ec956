@@ -1,0 +1,9 @@
+#Sat Mar 01 23:47:22 GMT 2025
+sha1=ae0012f323014a8aa4d5c4250343ec77a584709d
+@BlobStore.blob-name=/org/scala-lang/modules/scala-collection-compat_3/2.11.0/scala-collection-compat_3-2.11.0.pom
+size=2090
+creationTime=1740872840921
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

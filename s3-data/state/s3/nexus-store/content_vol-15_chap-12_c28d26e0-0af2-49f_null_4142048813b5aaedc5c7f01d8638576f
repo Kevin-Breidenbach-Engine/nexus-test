@@ -1,0 +1,9 @@
+#Sun Mar 02 00:16:56 GMT 2025
+sha1=0a77d55f68aec339b5e271e2d2a3438c62618a24
+@BlobStore.blob-name=/org/scalameta/junit-interface/1.0.0/junit-interface-1.0.0.pom.sha1
+size=40
+creationTime=1740874610263
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=text/plain

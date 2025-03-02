@@ -1,0 +1,9 @@
+#Sun Mar 02 00:03:40 GMT 2025
+sha1=1740e777105109a5f0c15feda15242cd58d66d8f
+@BlobStore.blob-name=/org/scala-lang/scaladoc_3/3.5.0/scaladoc_3-3.5.0.jar
+size=4869404
+creationTime=1740873815642
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

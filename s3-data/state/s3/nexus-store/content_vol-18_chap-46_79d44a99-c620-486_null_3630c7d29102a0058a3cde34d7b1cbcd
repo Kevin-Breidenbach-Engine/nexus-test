@@ -1,0 +1,9 @@
+#Sun Mar 02 00:00:30 GMT 2025
+sha1=5509f848735e39277dff96668ceb2f253cf6017a
+@BlobStore.blob-name=/co/fs2/fs2-io_3/3.11.0/fs2-io_3-3.11.0.jar
+size=842416
+creationTime=1740873625996
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

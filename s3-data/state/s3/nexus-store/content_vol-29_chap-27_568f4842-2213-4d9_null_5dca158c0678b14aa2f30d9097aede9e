@@ -1,0 +1,9 @@
+#Sat Mar 01 23:47:17 GMT 2025
+sha1=f6de7b1e9defaf4209f1ed8d1fad09d13c4be272
+@BlobStore.blob-name=/software/amazon/awssdk/rds/2.29.6/rds-2.29.6.pom
+size=2551
+creationTime=1740872836270
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

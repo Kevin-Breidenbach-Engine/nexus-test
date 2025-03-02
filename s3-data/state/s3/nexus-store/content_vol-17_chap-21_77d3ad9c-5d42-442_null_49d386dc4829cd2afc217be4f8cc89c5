@@ -1,0 +1,9 @@
+#Sun Mar 02 00:03:57 GMT 2025
+sha1=eaaad1a8edf2ad3d462537cb0d4ee8aa86b6f87a
+@BlobStore.blob-name=/software/amazon/awssdk/protocol-core/2.29.6/protocol-core-2.29.6.jar
+size=44334
+creationTime=1740873833026
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

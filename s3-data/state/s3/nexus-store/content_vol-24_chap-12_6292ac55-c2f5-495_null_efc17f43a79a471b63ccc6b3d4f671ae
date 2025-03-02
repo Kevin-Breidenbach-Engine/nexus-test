@@ -1,0 +1,9 @@
+#Sun Mar 02 00:55:08 GMT 2025
+sha1=4cfa834fc69568857df4e680c072fbd11fd9eef1
+@BlobStore.blob-name=/tech/engine/new-schema_3/1.1.5-SNAPSHOT/new-schema_3-1.1.5-SNAPSHOT-sources.jar.sha1
+size=40
+creationTime=1740876906616
+@Bucket.repo-name=engine-snapshot
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=github-actions
+@BlobStore.content-type=application/octet-stream

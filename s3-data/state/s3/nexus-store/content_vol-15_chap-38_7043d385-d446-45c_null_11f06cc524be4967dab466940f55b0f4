@@ -1,0 +1,9 @@
+#Sun Mar 02 00:23:51 GMT 2025
+sha1=79716590e4d1010595f2fb7d7a0ddf656b840bee
+@BlobStore.blob-name=/io/netty/netty-transport-native-unix-common/4.1.114.Final/netty-transport-native-unix-common-4.1.114.Final-sources.jar
+size=69323
+creationTime=1740875025560
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

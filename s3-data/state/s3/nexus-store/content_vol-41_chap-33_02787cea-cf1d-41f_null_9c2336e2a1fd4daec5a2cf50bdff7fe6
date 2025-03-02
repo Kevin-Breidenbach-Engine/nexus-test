@@ -1,0 +1,9 @@
+#Sun Mar 02 00:24:37 GMT 2025
+sha1=77acfa8b5b87e8f6a64cd3648e92361628d45ad5
+@BlobStore.blob-name=/software/amazon/awssdk/auth/2.29.6/auth-2.29.6-sources.jar
+size=145483
+creationTime=1740875072329
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

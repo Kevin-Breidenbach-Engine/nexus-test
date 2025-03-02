@@ -1,0 +1,9 @@
+#Sat Mar 01 23:47:27 GMT 2025
+sha1=b81103265912f68150eb11f183c3d76dd81ffd35
+@BlobStore.blob-name=/org/apache/kafka/kafka-clients/3.7.0/kafka-clients-3.7.0.pom
+size=1414
+creationTime=1740872846800
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/xml

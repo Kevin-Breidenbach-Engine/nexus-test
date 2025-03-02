@@ -1,0 +1,9 @@
+#Sun Mar 02 00:03:42 GMT 2025
+sha1=2df6fab5e2e7abc1011d90f25c872955081a3f9a
+@BlobStore.blob-name=/com/softwaremill/sttp/model/core_3/1.7.11/core_3-1.7.11.jar
+size=630605
+creationTime=1740873818088
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

@@ -1,0 +1,9 @@
+#Sun Mar 02 00:42:22 GMT 2025
+sha1=41d29144cf1ba798e0eb4b81cff1c5314104597c
+@BlobStore.blob-name=/org/testcontainers/testcontainers/1.19.1/testcontainers-1.19.1-sources.jar
+size=172091
+creationTime=1740876137605
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive

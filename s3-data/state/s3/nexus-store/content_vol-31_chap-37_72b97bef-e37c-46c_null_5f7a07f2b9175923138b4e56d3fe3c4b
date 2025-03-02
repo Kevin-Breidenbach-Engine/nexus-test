@@ -1,0 +1,9 @@
+#Sun Mar 02 00:04:10 GMT 2025
+sha1=3bed0fd5e3d214940d0c6cc65322ab6b77369237
+@BlobStore.blob-name=/software/amazon/awssdk/profiles/2.29.6/profiles-2.29.6.jar
+size=49815
+creationTime=1740873845522
+@Bucket.repo-name=maven-central
+@BlobStore.created-by-ip=192.168.65.1
+@BlobStore.created-by=engine-developer
+@BlobStore.content-type=application/java-archive
